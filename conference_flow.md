@@ -1,5 +1,15 @@
 # Flow of the Conference
 
+## NIME's DNA
+
+NIME
+
+- NIME is a friendly conference. It is important that it is equally welcoming to people from both academic and artistic backgrounds, and to both students and faculty members.
+- NIME feels like a small conference, even though it is quite large. It runs with a single-track paper session so that everyone experiences the same content. Presentations are short (10-15 minutes) and of high quality.
+- The artistic program is equally important as the scientific, and should be peer reviewed and presented on similar terms.
+
+## General Schedule
+
 The typical structure of a NIME conference is three days of core conference activities. It is common to organize a day of workshops prior to the conference, and one or more "unconference" activities the day after the main program.
 
 Installations typically run through the whole conference, and often also before and after.
