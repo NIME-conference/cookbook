@@ -1,5 +1,8 @@
+## Before the conference
 
-## Proposal requirements
+
+
+### Proposal requirements
 
 The following information should be included in the proposal:
 
@@ -10,10 +13,10 @@ The following information should be included in the proposal:
 * experience duration
 * audience roles
 * level of completion (i.e. is it an idea? has it been experimented? in refinement stages? completed?)
-* diagrams of the installation 
+* diagrams of the installation
 * video demos
 
-## Assessment criteria
+### Assessment criteria
 
 Rate each along the following dimensions:
 
@@ -22,3 +25,10 @@ Rate each along the following dimensions:
 3. technical novelty
 4. feasibility
 5. fun factor
+
+
+
+## During the conference
+
+
+## After the conference
