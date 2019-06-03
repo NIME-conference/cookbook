@@ -1,4 +1,4 @@
-# General chair
+# General Chair
 
 ## Copyright and GDPR documents
 
