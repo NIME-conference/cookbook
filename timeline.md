@@ -1,3 +1,5 @@
+# Timeline for organizing a NIME
+
 This is coarse overview of the timeline of the organization of the annual NIME conferences: 
 
 * May: Apply for hosting
