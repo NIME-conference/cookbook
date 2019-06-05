@@ -49,27 +49,62 @@ The only strictly double-blind part is that between external reviewers and autho
 
 ### Presentation duration
 
-Previously there was a difference in presentation time between short and long papers. That has changed, and all presentations are equally long:
+Previously there was a difference in presentation time between short and long papers. That has changed, and all presentations are now equally long.
 
-* 15 min presentation + 3 min questions + 2 min turnover
+There have been different duration of the talks, but they generally follow this pattern:
 
-Please ask the next presenters to start preparing during the Q&A to save time.
+* 10-15 min presentation + 3 min questions + 2 min turnover
+
+Remember to inform presenters about the duration of talks every time you have the chance, since people tend to forget.
+
+
+### Running paper sessions
+
+Time is short, so it is important to have a structured approach to chairing the oral sessions.
+The paper chair needs to find session chairs to run each session. It is common to use experienced participants as session chairs, but please also consider giving new people a chance (and remember the diversity also of session chairs).
+
+It is important that the paper chair clearly informs the session chairs about their duties:
+
+- Arrive early to the session, and welcome all presenters.
+- Ask presenters to test their setup before their session.
+- Start on time, every minute matters. Remember to close the doors.
+- Keep track of the time, and signal to presenters when there are 5, 2, 0 minutes left.
+- Ask next presenters to set up during the Q&A session.
+
+Please also ensure that you have volunteers available to assist during the session. Ideally you will have one volunteer helping with the audiovisual setup, and at least one volunteer to run with microphones during Q&A sessions.
+
+Remember that session chairs do a very important job during the conference! An important part of the job is to smile, breath, and help nervous presenters to relax. But it is equally important to keep the time, nobody likes to be delayed to a coffee break.
+
 
 ## After the conference
 
-### Proceedings on NIME.org
 
-The nime.org archive is built on BibTeX files stored at Github.
+### Getting the proceedings on NIME.org
 
-### DBLP
+The nime.org archive is built on [BibTeX files](https://github.com/NIME-conference/NIME-bibliography) stored at Github. As paper chair it is your job to prepare a complete BibTeX file.
 
-  - [Previous
-    NIMEs](http://www.informatik.uni-trier.de/~ley/db/conf/nime/index.html)
-    at DBLP
-  - [info](https://dblp.uni-trier.de/faq/How+can+I+submit+meta+data+for+a+complete+journal+or+conference.html)
-    on how to submit to DBLP
+#### Export from PrecisionConf
 
-### ACM
+As of 2018 it should be possible to export BibTeX directly from Precision Conference. Prior to that we had to do some post-processing with the script [Precision2BibTeX](https://github.com/NIME-conference/Precision2BibTeX)
+
+
+#### Massaging the BibTeX files
+
+Remember to "massage" the exported BibTeX files so that they match the old files.
+
+- Check the title of the proceedings:
+- Check that abstracts are included for all papers
+- Check weird formatting (typically unicode-related issues)
+- Insert right link to PDFs
+
+
+### Indexing in DBLP
+
+- [Previous NIMEs](http://www.informatik.uni-trier.de/~ley/db/conf/nime/index.html) at DBLP
+- [info](https://dblp.uni-trier.de/faq/How+can+I+submit+meta+data+for+a+complete+journal+or+conference.html) on how to submit to DBLP
+
+### Indexing in ACM
+
 
 ### Scopus
 
