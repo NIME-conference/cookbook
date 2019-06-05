@@ -11,7 +11,7 @@ To be able to record presentations and performances, remember to include consent
 
 ## During the conference
 
-The most important role of the general chair is to act as a host. You should not plan to do anything in particular, nor be responsible for anything. You will be swamped by all sorts of questions anyways, but will 
+The most important role of the general chair is to act as a host. You should not plan to do anything in particular, nor be responsible for anything. You will be swamped by all sorts of questions anyways, and should have extra time to just talk to people, talk to journalists, etc.
 
 
 ## After the conference
