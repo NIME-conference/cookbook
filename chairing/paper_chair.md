@@ -90,31 +90,59 @@ No-shows happen, for various reasons, but it should really be discouraged. The m
 
 ### Getting the proceedings on NIME.org
 
-The nime.org archive is built on [BibTeX files](https://github.com/NIME-conference/NIME-bibliography) stored at Github. As paper chair it is your job to prepare a complete BibTeX file.
+The nime.org archive is built on [BibTeX files](https://github.com/NIME-conference/NIME-bibliography) stored at Github. As paper chair it is your job to prepare a complete BibTeX file adhering to the NIME standards. The steps involved in this is as follows.
+
+#### Remove papers that were not presented
+
+There are always some accepted papers that are not presented for various reasons. No matter the reason, papers that are not presented at the conference should be removed from the proceedings. This is because the proceedings should reflect what actually happened at the conference. It is also very important to let all (future) authors know that NIME has a strict no-show procedure.
+
+#### Fix errors in the metadata or papers
+
+Due to the short time in preparing the proceedings before the conference, there may be occasional errors in metadata (author names, affiliations, etc.) or in the PDF files (most often wrong page layout, missing fonts, low-resolution images, etc.).
+
+It is in NIME's interest to have as good metadata and PDFs as possible, so we do accept such error corrections and minor PDF modifications.
 
 #### Export from PrecisionConf
 
-As of 2018 it should be possible to export BibTeX directly from Precision Conference. Prior to that we had to do some post-processing with the script [Precision2BibTeX](https://github.com/NIME-conference/Precision2BibTeX)
+When the basic "post-processing" of the proceedings is done, it is time to generate the BibTeX file. As of 2018 it should be possible to export BibTeX directly from Precision Conference. Prior to that we had to do some post-processing with the script [Precision2BibTeX](https://github.com/NIME-conference/Precision2BibTeX).
 
 
-#### Massaging the BibTeX files
+#### Massaging the BibTeX file
 
-Remember to "massage" the exported BibTeX files so that they match the old files.
+The exported BibTeX file need some "massaging" to match the other BibTeX files in the repository. Please check the [files on Github](https://github.com/NIME-conference/NIME-bibliography/tree/master/BibTeX) to see how the file shold be formatted. Typically this includes:
 
-- Check the title of the proceedings:
-- Check that abstracts are included for all papers
-- Check weird formatting (typically unicode-related issues)
-- Insert right link to PDFs
+- Check the title of the proceedings. It should be the generic title "Proceedings of the international conference on new interfaces for musical expression". The year and place should be included in separate fields, not as part of the title. This is because the ISSN for the series is bound to the generic proceedings title.
+- Check that abstracts are included for all papers. Please also check that there a no line-breaks in the abstract.
+- Check weird formatting (typically unicode-related issues).
+- Insert right link to PDFs. Should be something like nime20XX_ID.pdf.
+
+#### Send the material to the paper proceedings officer
+
+The NIME paper proceedings officer will help with the above, and will also do the final upload to nime.org.
+
+### Upload to Zenodo
+
+NIME has decided to use Zenodo for archival of papers.
 
 
-### Indexing in DBLP
+### Indexing
 
-- [Previous NIMEs](http://www.informatik.uni-trier.de/~ley/db/conf/nime/index.html) at DBLP
-- [info](https://dblp.uni-trier.de/faq/How+can+I+submit+meta+data+for+a+complete+journal+or+conference.html) on how to submit to DBLP
+Indexing of the proceedings is important for the visibility of the papers. We will work more on improving this in the future.
 
-### Indexing in ACM
+#### Indexing in Google Scholar
 
+The [papercite](https://wordpress.org/plugins/papercite/) plugin used on nime.org contains metadata information that is indexed by Google Scholar. So nothing else should be needed than getting the papers on nime.org.
 
-### Scopus
+#### Indexing in DBLP
 
-A request to Scopus was sent in June 2018.
+For several years NIME was indeded in [DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/nime/index.html). However, after they changed their submission format, we never managed to back on track.
+
+Here is [info](https://dblp.uni-trier.de/faq/How+can+I+submit+meta+data+for+a+complete+journal+or+conference.html) on how to submit to DBLP.
+
+#### Indexing in ACM
+
+The same is true for ACM, with which we have not been able to index for several years either. This is important to work on, hence the need for someone to work on this in particular.
+
+#### Scopus
+
+A request to register NIME in Scopus was sent in June 2018. They have a long processing time, and we should expect a reply in 2019.  
