@@ -6,7 +6,7 @@
 
 ### Prepare Call for participation (September)
 
-The CFP is usually adjusted slightly from year to year, but not be drastically different. Please refer to [previous calls](../calls/).
+The CFP is usually adjusted slightly from year to year, but not be drastically different. Please refer to [previous calls](../calls/cfp2012.md).
 
 
 ### Set up the Conference Management System (November)
