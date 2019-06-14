@@ -3,15 +3,24 @@
 
 ## Before the conference
 
-### Peer review
 
-* The paper chair(s) assign papers to reviewers (3-4 per paper to get enough) and follow up the deadlines
-* A group of meta-reviewers write the summaries and suggest acceptance
-* The paper chair(s) do the final selection
+### Prepare Call for participation (September)
 
-In the interest of running the process as smoothly as possible, the paper chair(s) should do the review assignment and follow-up. This is how it has always been (we only started with meta-reviewers in 2014). The CMS helps out a lot by coming up with suggestions of reviewers based on expertise. Having a centralized reviewer assignment also helps in avoiding individuals to be contacted by multiple meta-reviewers.
+The CFP is usually adjusted slightly from year to year, but not be drastically different. Please refer to [previous calls](../calls/).
 
-## A few tips ##
+
+### Set up the Conference Management System (November)
+
+NIME used Easyconf as the Conference Management System (CMS) for many years. After some bad experiences with server crashes, lack of support, and lack of multi-track functionality, we decided to move away. From 2012 NIME has been using Precision Conference as CMS. Chairs have reported this to be a solid system, although with some of a learning curve. It is also quite costly.
+
+In 2019 the SC has decided to switch to a different system. The discussion revealed that there are two main options:
+
+- EasyConf
+- Microsoft Conference Management Toolkit
+
+The former is used by SMC, MOCO (and many others). The latter is used by ISMIR, WAC (and many others). I don't have a strong opinion on which one to use. For the SC the most important is not to change every year. So if we decide on something we should stay with it for a few years.
+
+### Recruit reviewers (December)
 
 * When it comes to reviewers, you can get lists from previous chairs (or it may be in the system). It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs.
 
@@ -20,6 +29,15 @@ In the interest of running the process as smoothly as possible, the paper chair(
 * Be very strict about deadlines, and plan well ahead. The reviewer pool should be ready way before the deadline, preferably before Christmas. It is better to get too many than too few.
 
 * Prepare reviewers and meta-reviewers about what is coming when. So a week before they should get to action, you can send them an e-mail and inform them about when they will receive their assignments.
+
+
+### Peer review (February)
+
+* The paper chair(s) assign papers to reviewers (3-4 per paper to get enough) and follow up the deadlines
+* A group of meta-reviewers write the summaries and suggest acceptance
+* The paper chair(s) do the final selection
+
+In the interest of running the process as smoothly as possible, the paper chair(s) should do the review assignment and follow-up. This is how it has always been (we only started with meta-reviewers in 2014). The CMS helps out a lot by coming up with suggestions of reviewers based on expertise. Having a centralized reviewer assignment also helps in avoiding individuals to be contacted by multiple meta-reviewers.
 
 
 ## Confirmation letter to send ##
