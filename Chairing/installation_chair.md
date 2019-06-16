@@ -35,3 +35,5 @@ Rate each along the following dimensions:
 
 
 ## After the conference
+
+The installation chair is responsible for making documentation available after the conference. 

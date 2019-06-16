@@ -163,4 +163,4 @@ The same is true for ACM, with which we have not been able to index for several 
 
 #### Scopus
 
-A request to register NIME in Scopus was sent in June 2018. They have a long processing time, and we should expect a reply in 2019.  
+A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. They have a long processing time, and we should expect a reply in 2019.  
