@@ -39,8 +39,12 @@ The former is used by SMC, MOCO (and many others). The latter is used by ISMIR, 
 
 In the interest of running the process as smoothly as possible, the paper chair(s) should do the review assignment and follow-up. This is how it has always been (we only started with meta-reviewers in 2014). The CMS helps out a lot by coming up with suggestions of reviewers based on expertise. Having a centralized reviewer assignment also helps in avoiding individuals to be contacted by multiple meta-reviewers.
 
+### Test print the proceedings
 
-## Confirmation letter to send ##
+We are not printing the NIME proceedings for the conferences any longer. Please remember that many people still print individual papers, so it is advisable to test print all papers to check if any errors occur.
+
+
+### Confirmation letter to send
 
 After paper reviewing there are different kinds of letter to send:
 * submitted and accepted as paper
@@ -49,7 +53,8 @@ After paper reviewing there are different kinds of letter to send:
 * submitted as concert but performed as club
 * submitted as concert but downgraded to demo
 
-#### Double-blindedness
+
+### Double-blindedness
 
 This is how double-blind policy is implemented in the PCS System used at NIME:
 
@@ -137,30 +142,3 @@ The exported BibTeX file need some "massaging" to match the other BibTeX files i
 #### Send the material to the paper proceedings officer
 
 The NIME paper proceedings officer will help with the above, and will also do the final upload to nime.org.
-
-### Upload to Zenodo
-
-NIME has decided to use Zenodo for archival of papers.
-
-
-### Indexing
-
-Indexing of the proceedings is important for the visibility of the papers. We will work more on improving this in the future.
-
-#### Indexing in Google Scholar
-
-The [papercite](https://wordpress.org/plugins/papercite/) plugin used on nime.org contains metadata information that is indexed by Google Scholar. So nothing else should be needed than getting the papers on nime.org.
-
-#### Indexing in DBLP
-
-For several years NIME was indeded in [DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/nime/index.html). However, after they changed their submission format, we never managed to back on track.
-
-Here is [info](https://dblp.uni-trier.de/faq/How+can+I+submit+meta+data+for+a+complete+journal+or+conference.html) on how to submit to DBLP.
-
-#### Indexing in ACM
-
-The same is true for ACM, with which we have not been able to index for several years either. This is important to work on, hence the need for someone to work on this in particular.
-
-#### Scopus
-
-A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. They have a long processing time, and we should expect a reply in 2019.  
