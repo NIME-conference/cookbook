@@ -1,5 +1,12 @@
 # Paper Chair
 
+Main role: Be responsible for the scientific program during the conference. This includes:
+
+1. Directing the paper reviewing and selection process
+2. Making the presentation/poster/demo program
+3. Preparing the proceedings for archival
+
+The Paper Chair will work closely with the [Paper Archive Officer](../Officers/paper_proceedings.md).
 
 ## Before the conference
 

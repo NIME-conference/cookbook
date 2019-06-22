@@ -1,7 +1,11 @@
 # Paper proceedings archive officer
 
-Main role: Archiving of the proceedings (nime.org and Zenodo), and get back on track with indexing (DBLP, ACM DL, Scopus)
+Main roles:
 
+1. Archive the proceedings on nime.org and Zenodo
+2. Index the papers in DBLP, ACM DL, Scopus, and others
+
+The paper proceedings archive officer will work closely with each year's [Paper Chair](../Chairs/paper_chair.md). 
 
 ## General info about the proceedings
 
