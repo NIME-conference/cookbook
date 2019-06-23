@@ -22,4 +22,13 @@ There have been discussions about developing the community page further, for exa
 - A news/blog section
 - A directory of active NIME'rs and institutions
 
-Considering recent social media developments, the two first may not be so relevant any longer. A directory could be useful, however, but needs maintenance if developed. 
+Considering recent social media developments, the two first may not be so relevant any longer. A directory could be useful, however, but needs maintenance if developed.
+
+## Web platform
+
+The current page is hosted on Wordpress. One option may be a jekyll-based solution on github.
+
+Some things to consider:
+
+- we are currently using the papercite plugin to [generate the paper archive](https://nime.gitbook.io/conference-cookbok/officers/paper_proceedings#indexing-in-google-scholar), so it is critical to find another solution for this if we move away from wordpress.
+- need to figure out where to archive old conference web pages (static pages with own formatting)
