@@ -5,7 +5,7 @@ Main roles:
 1. Archive the proceedings on nime.org and Zenodo
 2. Index the papers in DBLP, ACM DL, Scopus, and others
 
-The paper proceedings archive officer will work closely with each year's [Paper Chair](../Chairs/paper_chair.md). 
+The paper proceedings archive officer will work closely with each year's [Paper Chair](../Chairs/paper_chair.md).
 
 ## General info about the proceedings
 
@@ -54,4 +54,14 @@ The same is true for ACM, with which we have not been able to index for several 
 
 ### Scopus
 
-A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. They have a long processing time, and we should expect a reply in 2019.  
+A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. They have a long processing time, and we got a reply in June 2019 saying:  
+
+> Please be advised that the decision was made to accept this title in Compendex.
+>
+> If necessary, our Source Collection Management department will contact the publisher in order to set up the content feed for Compendex. The title will be loaded in Compendex as soon as we have access to the title and the content has been processed for indexing. At this moment, there is no further action required from your end.
+>
+> Regards,
+>
+> EV Title Suggestion Team
+
+Will have to wait and see how this turns out.
