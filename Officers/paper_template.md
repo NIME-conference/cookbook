@@ -29,11 +29,13 @@ NIME has been using an ACM paper template from the start, and it is time to look
 ## Requirements
 
 1. Needs to be media-rich
-2. Should be possible to use also for non-techy NIMErs (those that prefer the MS Word template today). Thus may need to think of the template as a tool
+2. Should be possible to use also for non-techy NIMErs (those that prefer the MS Word template today). Thus we may need to think of the tools to be used to create submissions
 3. Needs to be fairly longterm (we cannot change template every year)
 4. Needs to be archivable in Zenodo
 5. Should embrace principles of Open Research: sharability, reproducibility, etc.
 6. Needs to work for peer review (currently double-blind)
+7. Needs to be cross-platform and standards-based
+8. Should be checked for accessibility (fonts, etc.)
 
 ## Some questions
 
@@ -43,7 +45,10 @@ NIME has been using an ACM paper template from the start, and it is time to look
 - What about metadata, thinking about indexing, etc.
 - Do we need documents that can be printed (as PDF)?
 - Can we open for integrated peer reviewing processes (Authorea-style)?
-
+- Can we open for translations to other languages than English (Wikipedia-style)?
+- Can we open for "lean publishing"?
+- How do we think about "number of pages"? Word count as limit?
+- How can we allow for version control and DOIs?
 
 ## Links
 
@@ -68,6 +73,7 @@ NIME has been using an ACM paper template from the start, and it is time to look
 
 ### Inspiration
 
+- [eContact!](https://econtact.ca/)
 - [gibber.cc/](https://gibber.cc/)
 - [Explorable Explanations](https://explorabl.es/)
 - [Future of Coding](https://futureofcoding.org/)
