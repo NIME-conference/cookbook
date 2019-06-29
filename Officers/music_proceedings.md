@@ -5,7 +5,9 @@ Main goal: Build up and maintain a music proceedings archive for NIME, including
 Officers:
 
 - Federico Visi
-
+- Ico Bukvic
+- Niccolo Granieri
+- Christopher Walker
 
 ## Background
 
