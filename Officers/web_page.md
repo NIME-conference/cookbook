@@ -8,6 +8,12 @@ Action points:
 2. Move the domain to new solution(s)
 3. Consider further developments
 
+Officers:
+
+- Charles Martin
+- Rodrigo Schramm
+
+
 ## Content on nime.org
 
 The web page currently has these functions:

@@ -15,6 +15,7 @@ Officers:
 - Niccolo Granieri
 - Jack Armitage
 - Luiz Naveda
+- Charles Martin
 
 
 ## Background
