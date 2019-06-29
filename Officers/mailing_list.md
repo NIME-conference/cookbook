@@ -2,6 +2,11 @@
 
 Main task: Keep the mailing list running, check new subscribers, and moderate postings.
 
+Officers:
+
+- Michael Lyons
+- Andrew Jhonston
+- Tom Mitchell
 
 ## More info about the mailing list
 
