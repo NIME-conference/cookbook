@@ -73,6 +73,31 @@ This is how double-blind policy is implemented in the PCS System used at NIME:
 
 The only strictly double-blind part is that between external reviewers and authors.
 
+### Lessons learned in 2019
+
+- Fair distribution of reviews: We wanted to avoid an uneven distribution of reviews (some reviewers with many reviews, and some reviewers with none). Therefore, we aimed for a better distribution of papers to the community of reviewers by distributing at least one paper for each reviewer. Our impression is that this has involved more broadly the community, but we were not able to assess it.  
+
+- Bidding and sample papers: We included the option of bidding, that combined with the papers samples helped us to distribute more meaningful papers across reviewers and meta-reviewers. Out of 31 total meta-reviewers, all of them added sample papers and 16 (52% of the total) did bidding. Out of 204 reviewers, only 74 added sample papers (36%), and XX (XX% of the total) did bidding. Our recommendation is to promote both bidding and sample papers, which is very helpful to assign the reviews to reviewers. However, we were not able to assess it.  
+
+- Reduce the workload for meta-reviewers: This year we had a total of 141 submissions (less submissions than typical in NIMEs), so we were able to distribute only 5 papers of quota for each meta-reviewer of a total number of 31 meta-reviewers. Our impression is that this quota worked, but some meta-reviewers failed. We recommend to keep reliable list of meta-reviewers, which might need to grow if the number of submissions is larger than this year. Another impression was that there were different levels of meta-reviews. It is unclear if meta-reviewers sometimes rely only on the external reviewer's reviews, and not on her/his reading of the paper. A serious risk is reviewers having a wrong impression and ultimately biasing the meta-reviewer. We recommend to ensure that the meta-reviewer has fewer submissions, but is always required to write an independent review, not only a summary of the reviews.
+
+- Number of paper chairs: We were two paper chairs instead of one. Our impression is that this is very important to avoid biases, take important (and difficult) decisions that need team discussion. We can’t stress enough the recommendation of having two paper chairs instead of one. It is a huge amount of work, and it is very important to be able to discuss difficult cases, avoid conflict of interests, and so on. We found it also very beneficial to have the general chair copied on all paper-related communications, in order to lend a hand in specific cases.
+
+- Anonymization policy taken seriously: A few number of poorly anonymized submissions that were detected were "rescued" by asking the authors to submit a corrected manuscript and redistribute it to new external reviewers, which was a hard task (meta-reviewers could be kept because they are able to see the author names of the submissions). We recommend to check if papers are properly anonymized before distributing them among reviewers.
+
+- Conflict of interest policy taken seriously: We decided to remove two reviews that had conflict of interests. We recommend to keep this issue seriously by following the NIME statements published online.
+A master list of NIME reviewers: The list of reviewers and meta-reviewers seems to change year over year, and it is unclear whether there is a master list where all the community is included. We recommend to have a master list of NIME reviewers and meta-reviewers that just adds / sums the new names every year and has a field of status (e.g. not available this year, etc).
+
+- Roles of reviewers / meta-reviewers: A number of meta-reviewers were confused about their role with the role of a reviewer. As for next year, maybe meta reviewers should not receive the regular invites with accept/decline links, so that they are automatically confirmed for their assignments. They could be informed that upon accepting joining the program committee they would agree to receive up to 5 papers, and then the only concern for the chairs vis-a-vis meta reviewers would be to invite at least #submissions/5 committee members.
+
+- Tentative reviewers: We had a number of reviewers who did not reply / were tentative. With the aim of getting 3 reviews per submission and helping the meta-reviewers, we send out more invitations, and once we achieved the quota, we deleted the tentative reviewers. It turned that some of the reviewers were having an independent conversation with the meta-reviewer, and perhaps agreed using another medium (e.g. email). We recommend that it is OK to leave tentative reviewers hanging in the system even after inviting new reviewers. This may have a double advantage: on the one hand we can't really know in advance if tentative reviewers will eventually respond nor if accepted reviewers will in fact comply with their promises, so the worst-case scenario for having 5 or 6 external reviewers with some "pending" is to end up with a few extra reviews for a few papers; on the other hand, by leaving them hanging in the system, by the end of the reviewing period we would have a clear picture of the "unreliable reviewers", maybe to serve as a heads-up for the next chairs (sort of a blacklist).
+
+- Removing reviewers: For each submission, the system is unclear with reviewers who are removed for any particular reason (reassignment due to lack of anonymisation, unresponsiveness, busy, etc).  We recommend to have some kind of history and be able to see for each submission 1) who has been already invited to be a reviewer and removed (and the reason why, e.g. lack of anonymity, unresponsiveness, busy), and 2) who has declined the invitation already. This would not apply if we keep the tentative reviewers as suggested in the previous point.
+
+- Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times, including the actual realization of the conference. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgement of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
+
+- Anonymization: The templates are anonymized with seemingly real names. It is not the first time that this creates confusion among reviewers and even meta-reviewers. Often times, the anonymization is so strict that it is very difficult to get the full picture. It is very important to take the anonymization policy seriously otherwise some authors will be better positioned than others. We recommend offering solutions / options to the authors so that they can still upload videos, datasets, links, etc to improved the reviewing experience.
+
 
 
 ## During the conference
@@ -142,9 +167,11 @@ When the basic "post-processing" of the proceedings is done, it is time to gener
 The exported BibTeX file need some "massaging" to match the other BibTeX files in the repository. Please check the [files on Github](https://github.com/NIME-conference/NIME-bibliography/tree/master/BibTeX) to see how the file shold be formatted. Typically this includes:
 
 - Check the title of the proceedings. It should be the generic title "Proceedings of the international conference on new interfaces for musical expression". The year and place should be included in separate fields, not as part of the title. This is because the ISSN for the series is bound to the generic proceedings title.
-- Check that abstracts are included for all papers. Please also check that there a no line-breaks in the abstract.
-- Check weird formatting (typically unicode-related issues).
+- Check that abstracts are included for all papers. Please also check that there are no line-breaks in the abstracts.
+- Check weird formatting (typically unicode-related issues). Can be done automatically using for example JabRef.
+- Insert ISSN number (and possibly ISBN) in each post (query-replace usually works fine)
 - Insert right link to PDFs. Should be something like nime20XX_ID.pdf.
+
 
 #### Send the material to the paper proceedings officer
 
