@@ -168,7 +168,7 @@ The exported BibTeX file need some "massaging" to match the other BibTeX files i
 
 - Check the title of the proceedings. It should be the generic title "Proceedings of the international conference on new interfaces for musical expression". The year and place should be included in separate fields, not as part of the title. This is because the ISSN for the series is bound to the generic proceedings title.
 - Check that abstracts are included for all papers. Please also check that there are no line-breaks in the abstracts.
-- Check weird formatting (typically unicode-related issues). Can be done automatically using for example JabRef.
+- Check weird formatting (typically unicode-related issues). Can be done automatically using for example JabRef or [bibclean](http://manpages.ubuntu.com/manpages/bionic/man1/bibclean.1.html)
 - Insert ISSN number (and possibly ISBN) in each post (query-replace usually works fine)
 - Insert right link to PDFs. Should be something like nime20XX_ID.pdf.
 
