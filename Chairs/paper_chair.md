@@ -133,11 +133,15 @@ Remember that session chairs do a very important job during the conference! An i
 
 ### No-shows
 
-NIME do not accept remote presentation, video presentation or presentations by non-authors.
+We do not accept remote presentation, video presentation, or presentations by non-authors at NIME conferences. The reason for this is that the conference should not only be a place for publishing papers (then a journal is more appropriate), but be a meeting point of people. That is not possible if the authors are not present. No-shows happen, for various reasons, but it should be discouraged. The most efficient way of doing this, is to remove no-show papers from the proceedings.
 
-The reason for this is that the conference should not only be a place for publishing papers (then a journal is more appropriate), but be a meeting point of people. That is not possible if the authors are not present.
+This rule was created after seeing a number of cases in which people would submit their work, get it accepted, and not show up to present it at the conference (usually last minute or not even without notice). This is unfortunate for the participants, because it creates "holes" in the program, and it prevents other papers from being accepted for presentation. In addition it undermines the idea of the conference as a meeting point and a venue for active discussion.
 
-No-shows happen, for various reasons, but it should really be discouraged. The most efficient way of doing this, is to remove no-show papers from the proceedings.
+We do realize that this rule may seem unnecessarily strict, but we also see that it would be very difficult to come up with another rule that does not have a number of unintended side-effects.
+
+For people that have been accepted for one conference but that could not make it, we have allowed for the paper to be presented at the next conference without a new submission/reviewing process. Please do consider this option.
+
+
 
 
 ## After the conference
