@@ -3,6 +3,16 @@
 
 ## Before the conference
 
+### Selecting Chairs
+
+Finding chairs for the various specific roles is one of the most important things to do early on for the general chair(s). We have seen that it may help to have to chairs for each position, possibly with one local and one international member working together.
+
+This helps avoid biases in the selection review and selection processes, and when having to take important (and difficult) decisions that need discussion. Particularly for the roles of paper and music chairs it can help to be two people for each role to share the workload. This, of course, is based on a good communication between the chairs.
+
+We suggest to set up mailing lists for each chair, with also the general chair(s) being copied into the discussions so as to ensure that progress is happening.
+
+
+
 ### Accommodation
 
 Many NIME participants are traveling on a budget, so it would be good to come up with suggested accommodation alternatives in the lower price end. This can include anything from university student housing to cheap hotels.
