@@ -16,43 +16,46 @@ The Paper Chair will work closely with the [Paper Archive Officer](../Officers/p
 The CFP is usually adjusted slightly from year to year, but not be drastically different. Please refer to [previous calls](../calls/cfp2012.md).
 
 
-### Set up the Conference Management System (November)
+### Set up the Conference Management System (October)
 
 NIME used Easyconf as the Conference Management System (CMS) for many years. After some bad experiences with server crashes, lack of support, and lack of multi-track functionality, we decided to move away. From 2012 NIME has been using Precision Conference as CMS. Chairs have reported this to be a solid system, although with some of a learning curve. It is also quite costly.
 
-In 2019 the SC has decided to switch to a different system. The discussion revealed that there are two main options:
+In 2019 the SC has decided to switch to Microsoft Conference Management Toolkit. This CMS is used by ISMIR, WAC (and many others). The other option was EasyChair, which is used by SMC, MOCO (and many others). The reason for going for the Microsoft solution is the cost (free versus a £1000 cost for EasyChair) and a more modern GUI.
 
-- EasyConf
-- Microsoft Conference Management Toolkit
-
-The former is used by SMC, MOCO (and many others). The latter is used by ISMIR, WAC (and many others). I don't have a strong opinion on which one to use. For the SC the most important is not to change every year. So if we decide on something we should stay with it for a few years.
 
 ### Recruit reviewers (December)
 
-* When it comes to reviewers, you can get lists from previous chairs (or it may be in the system). It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs.
+* Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs.
 
-* Be careful about accepting to take on reviewers that start out saying they have little time, and can do the reviews a bit late. If people first start being late, they may be vary late, or not deliver at all. It is a very tight
+- Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgment of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
 
-* Be very strict about deadlines, and plan well ahead. The reviewer pool should be ready way before the deadline, preferably before Christmas. It is better to get too many than too few.
+* Be careful about accepting to take on reviewers that start out saying they have little time, and can do the reviews a bit late. If people first start being late, they may be vary late, or not deliver at all. It is a very tight timeline for the review process, so we cannot really have much delay.
 
-* Prepare reviewers and meta-reviewers about what is coming when. So a week before they should get to action, you can send them an e-mail and inform them about when they will receive their assignments.
+* Be very strict about deadlines, and plan well ahead. The reviewer pool should be ready way before the deadline, preferably before Christmas. It is better to get too many than too few reviewers, so that you can spread the task on more people. Maximum number of papers should be 5, but 2-3 papers per person is better.
+
+* Prepare reviewers and meta-reviewers about what is coming when. Send out e-mails a week before every deadline. It is also important to send out information in advance to tell when papers are being distributed. That way people can plan time to do their review. This will save you time in the end.
 
 
 ### Peer review (February)
 
 This is the most critical phase for the paper chair(s), since time is limited and the pressure is high. It helps the process a lot if reviewers have been recruited early on. Please also be very precise in your communication, with clear deadlines and expectancy for everyone involved.
 
-* The paper chair(s) assign papers to reviewers (3-4 per paper to get enough) and follow up the deadlines
+* The paper chair(s) assign papers to reviewers (3-4 reviewers per paper to ensure that all papers are reviewed by at least 3 people) and follow up the deadlines
 * A group of meta-reviewers write the summaries and suggest acceptance
 * The paper chair(s) do the final selection
 
 #### Distribution of reviews
 
-In the interest of running the process as smoothly as possible, the paper chair(s) should do the review assignment and follow-up. This is how it has always been (we only started with meta-reviewers in 2014). The CMS helps out a lot by coming up with suggestions of reviewers based on expertise. Having a centralized reviewer assignment also helps in avoiding individuals to be contacted by multiple meta-reviewers.
+- Centralized distribution: In the interest of running the process as smoothly as possible, the paper chair(s) should do the review assignment and follow-up. This is how it has always been (we only started with meta-reviewers in 2014). The CMS helps out a lot by coming up with suggestions of reviewers based on expertise. Having a centralized reviewer assignment also helps in avoiding individuals to be contacted by multiple meta-reviewers.
 
-It is important to avoid an uneven distribution of reviews (some reviewers with many reviews, and some reviewers with none). You should aim for a better distribution of papers to the community of reviewers by distributing at least one paper for each reviewer. This also involves the community more broadly, and helps get new and young people on board early in their careers.
+- Uneven distribution: It is important to avoid an uneven distribution of reviews (some reviewers with many reviews, and some reviewers with none). You should aim for a better distribution of papers to the community of reviewers by distributing at least one paper for each reviewer. This also involves the community more broadly, and helps get new and young people on board early in their careers.
 
-To ensure better fit with reviewers, you should promote adding sample papers to the CMS profile, and also open for bidding for papers.
+- Ask reviewers to complete their profile: To ensure better fit with reviewers, you should promote adding sample papers to the CMS profile, and also open for bidding for papers.
+
+- Tentative reviewers: We had a number of reviewers who did not reply / were tentative. With the aim of getting 3 reviews per submission and helping the meta-reviewers, we send out more invitations, and once we achieved the quota, we deleted the tentative reviewers. It turned that some of the reviewers were having an independent conversation with the meta-reviewer, and perhaps agreed using another medium (e.g. email). We recommend that it is OK to leave tentative reviewers hanging in the system even after inviting new reviewers. This may have a double advantage: on the one hand we can't really know in advance if tentative reviewers will eventually respond nor if accepted reviewers will in fact comply with their promises, so the worst-case scenario for having 5 or 6 external reviewers with some "pending" is to end up with a few extra reviews for a few papers; on the other hand, by leaving them hanging in the system, by the end of the reviewing period we would have a clear picture of the "unreliable reviewers", maybe to serve as a heads-up for the next chairs (sort of a blacklist).
+
+- Removing reviewers: For each submission, the system is unclear with reviewers who are removed for any particular reason (reassignment due to lack of anonymisation, unresponsiveness, busy, etc).  We recommend to have some kind of history and be able to see for each submission 1) who has been already invited to be a reviewer and removed (and the reason why, e.g. lack of anonymity, unresponsiveness, busy), and 2) who has declined the invitation already. This would not apply if we keep the tentative reviewers as suggested in the previous point.
+
 
 #### Meta-reviewers
 
@@ -61,22 +64,8 @@ NIME has been using meta-reviewers since 2014. This has helped improve the gener
 A general problem is that there are different levels of meta-reviews. It is unclear if meta-reviewers sometimes rely only on the external reviewer's reviews, and not on her/his reading of the paper. A serious risk is reviewers having a wrong impression and ultimately biasing the meta-reviewer. Ideally each meta-reviewer should have fewer submissions, so that they can do a proper reading of the papers themselves.
 
 
-### Test print the proceedings
 
-We are not printing the NIME proceedings for the conferences any longer. Please remember that many people still print individual papers, so it is advisable to test print all papers to check if any errors occur.
-
-
-### Confirmation letter to send
-
-After paper reviewing there are different kinds of letter to send:
-* submitted and accepted as paper
-* submitted as paper but downgraded to poster
-* submitted as poster and accepted as such
-* submitted as concert but performed as club
-* submitted as concert but downgraded to demo
-
-
-### Double-blindedness
+#### Double-blindedness
 
 This is how double-blind policy is implemented in the PCS System used at NIME:
 
@@ -92,20 +81,47 @@ A few number of poorly anonymized submissions that were detected were "rescued" 
 
 - Anonymization: The templates are anonymized with seemingly real names. It is not the first time that this creates confusion among reviewers and even meta-reviewers. Often times, the anonymization is so strict that it is very difficult to get the full picture. It is very important to take the anonymization policy seriously otherwise some authors will be better positioned than others. We recommend offering solutions / options to the authors so that they can still upload videos, datasets, links, etc to improved the reviewing experience.
 
-### Lessons learned in 2019
+
+#### Conflicts of interest
+
+It is very important to take conflicts of interest seriously, and to follow the NIME statements published online. Conflicts of interests are self-reported, but there are cases where reviewers have not reported possible conflicts. So it is important that the chair(s) do an extra check of this. You should remove any reviews that appear to be based on conflicts of interest.
+
+### Selection of papers
+
+The acceptance of papers should be based on the quality of the papers. We do not use a specific percentage for acceptance, it should solely be based on the quality reported by reviewers.
+
+While there is usually a good correlation between the review scores and quality, there may be cases, particularly with disagreements between reviewers, where also papers with borderline or even negative scores may be accepted. These, and other borderline cases, are usually discussed between meta-reviewers and chair(s).
+
+### Programming
+
+Programming of papers should be based on a combination of the quality of the paper and the chairs' idea about how well suited the paper is for the different presentation formats.
+
+Relatively few papers can be accepted for oral presentation, typically 20-30 dependent on the artistic program. This means that it is very competitive to get an oral presentation slot. Please keep in mind that the program is curated, and there should not be a one-to-one relationship between reviewer scores and oral presentation. It is more important to think about creating balanced and relevant sessions, and to ensure a diverse oral program. This diversity should include a good balance between different fields, artistic vs scientific content, institutional/national distribution, gender diversity, etc.
+
+If the chair(s) think it works best, it may be worth "upgrading" a poster submission to an oral presentation. This should be checked with the authors first. Some people deliberately submit for a poster for various reasons, and should not be forced to present orally if they do not want to. Other times people are shy and don't dare to submit for oral presentation, and in these cases they may be honored by being "upgraded".
+
+It is more common to "downgrade" an oral presentation to poster, or a poster to demo. It should be communicated clearly that at NIME, both posters and demos are of high value, and often also papers that receive very high review scores are being presented as poster. It is the responsibility of the chair(s) to decide whether a "downgrade" should also be combined with a reduction in the number of pages of the paper. This is a question about the content of the paper, and whether the reviewers think the paper has enough content to fill, say, 6 pages. If not, then the authors should be asked to reduce it to 4 pages.
 
 
+### Confirmation letter to send
+
+After paper reviewing there are different kinds of letter to send:
+
+* submitted and accepted as paper
+* submitted as paper but downgraded to poster
+* submitted as poster and accepted as such
+* submitted as concert but performed as club
+* submitted as concert but downgraded to demo
 
 
-- Conflict of interest policy taken seriously: We decided to remove two reviews that had conflict of interests. We recommend to keep this issue seriously by following the NIME statements published online.
-A master list of NIME reviewers: The list of reviewers and meta-reviewers seems to change year over year, and it is unclear whether there is a master list where all the community is included. We recommend to have a master list of NIME reviewers and meta-reviewers that just adds / sums the new names every year and has a field of status (e.g. not available this year, etc).
+### Prepare proceedings
+
+It is very important to thoroughly check that all camera-ready papers fulfill the requirements of the template.
 
 
-- Tentative reviewers: We had a number of reviewers who did not reply / were tentative. With the aim of getting 3 reviews per submission and helping the meta-reviewers, we send out more invitations, and once we achieved the quota, we deleted the tentative reviewers. It turned that some of the reviewers were having an independent conversation with the meta-reviewer, and perhaps agreed using another medium (e.g. email). We recommend that it is OK to leave tentative reviewers hanging in the system even after inviting new reviewers. This may have a double advantage: on the one hand we can't really know in advance if tentative reviewers will eventually respond nor if accepted reviewers will in fact comply with their promises, so the worst-case scenario for having 5 or 6 external reviewers with some "pending" is to end up with a few extra reviews for a few papers; on the other hand, by leaving them hanging in the system, by the end of the reviewing period we would have a clear picture of the "unreliable reviewers", maybe to serve as a heads-up for the next chairs (sort of a blacklist).
+#### Test print the proceedings
 
-- Removing reviewers: For each submission, the system is unclear with reviewers who are removed for any particular reason (reassignment due to lack of anonymisation, unresponsiveness, busy, etc).  We recommend to have some kind of history and be able to see for each submission 1) who has been already invited to be a reviewer and removed (and the reason why, e.g. lack of anonymity, unresponsiveness, busy), and 2) who has declined the invitation already. This would not apply if we keep the tentative reviewers as suggested in the previous point.
-
-- Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times, including the actual realization of the conference. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgement of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
+We are not printing the NIME proceedings for the conferences any longer. Please remember that many people still print individual papers, so it is advisable to test print all papers to check if any errors occur.
 
 
 

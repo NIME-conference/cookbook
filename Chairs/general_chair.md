@@ -11,6 +11,9 @@ This helps avoid biases in the selection review and selection processes, and whe
 
 We suggest to set up mailing lists for each chair, with also the general chair(s) being copied into the discussions so as to ensure that progress is happening.
 
+### Diversity
+
+Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times, including the actual realization of the conference. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgment of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
 
 
 ### Accommodation
