@@ -59,7 +59,9 @@ NIME has been using an ACM paper template from the start, and it is time to look
 - [Research Catalogue](https://www.researchcatalogue.net/)
 - [Jupyter notebook](https://jupyter.org/) / [Colab](https://colab.research.google.com)
 -   [Open Science Framework](https://osf.io)
-
+- [Manifold](https://manifoldapp.org)
+- [Open Journal System / Open Conference System](https://pkp.sfu.ca/ojs)
+- [Distill.pub Template](https://distill.pub/guide/) [Git Repo](https://github.com/distillpub/template)
 
 ### Other communities
 
