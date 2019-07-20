@@ -42,6 +42,9 @@ Indexing of the proceedings is important for the visibility of the papers. We wi
 
 The [papercite](https://wordpress.org/plugins/papercite/) plugin used on nime.org contains metadata information that is indexed by Google Scholar. So nothing else should be needed than getting the papers on nime.org.
 
+It may be worth checking the latest [Google description](https://scholar.google.com/intl/en/scholar/inclusion.html) on how to make a cite searchable for indexing in Scholar.
+
+
 ### Indexing in DBLP
 
 For several years NIME was indeded in [DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/nime/index.html). However, after they changed their submission format, we never managed to back on track.
