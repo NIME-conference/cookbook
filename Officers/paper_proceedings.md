@@ -7,6 +7,14 @@ Main roles:
 
 The paper proceedings archive officer will work closely with each year's [Paper Chair](../Chairs/paper_chair.md).
 
+Officers:
+
+- Benedikte Wallace (Zenodo lead)
+- Pedro Pestana (Indexing lead)
+- Andrew McPherson
+- Federico Camara Halac
+- Balandino Di Donato
+
 ## General info about the proceedings
 
 ### Name of the proceedings
@@ -31,7 +39,13 @@ It is possible (and advisable) to also acquire ISBN numbers for the proceedings.
 
 ## Upload to Zenodo
 
-NIME has decided to use Zenodo for archival of papers.
+NIME has decided to use Zenodo for archival of papers. All previous NIME papers was uploaded to Zenodo in 2018 by Benedikte Wallace.
+
+Todo:
+
+- Upload 2019 paper proceedings
+- Add DOIs from each Zenodo paper to the BibTeX entries, so that we can link to Zenodo from the archive on nime.org
+- Work with Music Proceedings Officers to make a unified archive
 
 
 ## Indexing
