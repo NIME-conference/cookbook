@@ -39,7 +39,7 @@ It is possible (and advisable) to also acquire ISBN numbers for the proceedings.
 
 ## Upload to Zenodo
 
-NIME has decided to use Zenodo for archival of papers. All previous NIME papers was uploaded to Zenodo in 2018 by Benedikte Wallace.
+NIME has decided to use Zenodo for archival of papers. All previous NIME papers was uploaded to Zenodo in 2018 by Benedikte Wallace. This was done using a script based on [this script](https://github.com/darvasd/upload-to-zenodo). More info about the procedure on the [Zenodo developer site (REST API)](https://developers.zenodo.org/?python#rest-api).
 
 Todo:
 
