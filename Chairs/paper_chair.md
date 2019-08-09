@@ -13,7 +13,7 @@ The Paper Chair will work closely with the [Paper Archive Officer](../Officers/p
 
 ### Prepare Call for participation (September)
 
-The CFP is usually adjusted slightly from year to year, but not be drastically different. Please refer to [previous calls](../calls/cfp2012.md).
+The CFP is usually adjusted slightly from year to year, but not be drastically different. Please refer to [previous calls](../Info/Calls/cfp2012.md).
 
 
 ### Set up the Conference Management System (October)
