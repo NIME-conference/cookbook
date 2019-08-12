@@ -39,4 +39,4 @@ The media recorded during the conference needs to be edited and made available.
 As of 2019, the music proceedings are made openly available. In order for these to be made available on Zenodo and nime.org
 
 - a folder with PDFs named using the following naming convention: nimeYYYY_music###.pdf, where YYYY are the four digits of the year and ### the number of the extended abstract (e.g. nime2019_music123.pdf);
-- a bibtex file with pointers to the PDF file in the nime.org URL in the bibtex URL field (e.g. URL = {http://www.nime.org/proceedings/2019/nime2019_music123.pdf}. 
+- a bibtex file with pointers to the PDF file in the nime.org URL in the bibtex URL field (e.g. URL ={http://<span></span>www.nime.org/proceedings/2019/nime2019_music123.pdf}. 
