@@ -41,7 +41,7 @@ In 2019 the SC has decided to switch to Microsoft Conference Management Toolkit.
 This is the most critical phase for the paper chair(s), since time is limited and the pressure is high. It helps the process a lot if reviewers have been recruited early on. Please also be very precise in your communication, with clear deadlines and expectancy for everyone involved.
 
 * The paper chair(s) assign papers to reviewers (3-4 reviewers per paper to ensure that all papers are reviewed by at least 3 people) and follow up the deadlines
-* A group of meta-reviewers write the summaries and suggest acceptance
+* A group of meta-reviewers write summaries for each paper based on the individual reviews, and suggest a decision
 * The paper chair(s) do the final selection
 
 #### Distribution of reviews
@@ -59,10 +59,15 @@ This is the most critical phase for the paper chair(s), since time is limited an
 
 #### Meta-reviewers
 
-NIME has been using meta-reviewers since 2014. This has helped improve the general quality of reviews. Meta-reviewers have been responsible for 5-15 papers. Obviously, the quality of the work goes up with fewer papers, but having more meta-reviewers also makes the whole process more vulnerable if they do not deliver. It is important to get a reliable list of meta-reviewers from previous chairs.
+NIME has been using meta-reviewers since 2014. This has helped to improve the general quality of reviews. Meta-reviewers have typically been responsible for 5-15 papers each. Obviously, the quality of the work goes up with fewer papers, but having more meta-reviewers also makes the whole process more vulnerable if they do not deliver. It is important to set up a reliable group of meta-reviewers, and they should ideally know the conference fairly well.
 
-A general problem is that there are different levels of meta-reviews. It is unclear if meta-reviewers sometimes rely only on the external reviewer's reviews, and not on her/his reading of the paper. A serious risk is reviewers having a wrong impression and ultimately biasing the meta-reviewer. Ideally each meta-reviewer should have fewer submissions, so that they can do a proper reading of the papers themselves.
+Meta-reviewers read the individual reviews and write up a meta-review for each paper. The meta-reviewer should base his/her argument on the individual reviews, but could/should also read the paper in question to make up an opinion. This is particularly important when the individual reviewers disagree.
 
+The meta-reviewers should be encouraged to make a clear suggestion as for whether to accept or not (since many individual reviewers tend to gravitate towards borderline). Decisions on acceptance/rejection should always be based on a *qualitative* judgment. The scores are useful to help in sorting papers, but should not be used as the basis for the final decision.
+
+For many papers, making a decision is quite straight forward. For some papers there may be a lot of disagreements between individual reviewers. Then the meta-reviewer could ask the individual reviewers about their arguments before making their recommendation.
+
+The final decision of acceptance/rejection is made by the paper chair(s), and if they do not reach an agreement, it is ultimately the general chair that will have to make a decision.
 
 
 #### Double-blindedness
