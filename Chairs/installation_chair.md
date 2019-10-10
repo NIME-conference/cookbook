@@ -27,7 +27,7 @@ Rate each along the following dimensions:
 2. artistic merit
 3. technical novelty
 4. feasibility
-5. fun factor
+5. engagement factor
 
 
 
