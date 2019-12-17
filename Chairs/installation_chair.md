@@ -12,6 +12,7 @@ The following information should be included in the proposal:
 * description
 * installation
 * setup time (this is required when scheduling to estimate the time needed between installations)
+* setup space requirements
 * description of experience
 * experience duration
 * audience roles
@@ -40,7 +41,7 @@ The installation chair is responsible for making documentation available after t
 
 ### Prepare Artistic Proceedings
 
-Starting from 2020, Artistic Proceedings include extended abstracts describing aesthetic and techncial features of the accepted installations and music pieces. The installation chair should work in tandem with the music chair to prepare the artistic proceedings. 
+Starting from 2020, Artistic Proceedings include extended abstracts describing aesthetic and technical features of the accepted installations and music pieces. The installation chair should work in tandem with the music chair to prepare the artistic proceedings. 
 
 In order for these to be archived and made openly available on Zenodo and nime.org, files should be prepared as follows:
 
