@@ -71,6 +71,8 @@ So far, none of the NIME proceedings have _references_ included in the DBLP, per
 
 The same is true for ACM, with which we have not been able to index for several years either. This is important to work on, hence the need for someone to work on this in particular.
 
+There is some discussion of ACM DL indexing on the [academia stackexchange](https://academia.stackexchange.com/questions/90832/do-non-acm-events-conferences-publish-index-their-final-proceedings-in-the-acm) that suggests that only a "small number" of conferences have proceedings indexed (as opposed to published) on the ACM DL. A current question is: is this actually possible or supported by ACM? 
+
 ### Scopus
 
 A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. They have a long processing time, and we got a reply in June 2019 saying:  
