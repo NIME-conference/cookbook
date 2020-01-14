@@ -61,9 +61,11 @@ It may be worth checking the latest [Google description](https://scholar.google.
 
 ### Indexing in DBLP
 
-For several years NIME was indeded in [DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/nime/index.html). However, after they changed their submission format, we never managed to back on track.
+NIME indexing in [DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/nime/index.html) seems to be up-to-date: 2001--2019.
 
 Here is [info](https://dblp.uni-trier.de/faq/How+can+I+submit+meta+data+for+a+complete+journal+or+conference.html) on how to submit to DBLP.
+
+So far, none of the NIME proceedings have _references_ included in the DBLP, perhaps this could be arranged through adding things to the OpenCitations.net database, but not sure if that is actually possible [arxiv:1906.11964](https://arxiv.org/abs/1906.11964).
 
 ### Indexing in ACM
 
