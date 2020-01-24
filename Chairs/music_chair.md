@@ -10,6 +10,15 @@ Here you should collaborate with the other chairs. NIME particularly supports su
 
 For the call it may be particularly good to plan if you are able to provide performers/ensembles or special equipment/rooms.
 
+### Anonymising music submissions
+
+Music submissions should be anonymised in order to help preventing bias during the reviewing process. However, it might be difficult at times to completely conceal the identity of the authors, especially when submitting images or videos necessary for the evaluation of the piece. Therefore, the music chairs should apply a "lean" anonymisation approach based on these basic criteria:
+
+- a music submission should not have any trace of the authors' names and affiliations in the written material;
+- submitting audio and video material should be done using anonymous accounts;
+- the identity and affiliations of the authors should not be mentioned in the title, description, or opening/closing credits of the submitted media.
+
+Failure to meet these basic criteria should be brought up by the music chairs and reviewers should bring up any potential conflict arising from knowing the identity of the author.
 
 ### Peer review
 
