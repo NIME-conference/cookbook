@@ -43,7 +43,6 @@ NIME has decided to use Zenodo for archival of papers. All previous NIME papers 
 
 Todo:
 
-- Upload 2019 paper proceedings
 - Add DOIs from each Zenodo paper to the BibTeX entries, so that we can link to Zenodo from the archive on nime.org
 - Work with Music Proceedings Officers to make a unified archive
 
