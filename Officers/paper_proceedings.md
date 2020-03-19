@@ -70,18 +70,8 @@ So far, none of the NIME proceedings have _references_ included in the DBLP, per
 
 The same is true for ACM, with which we have not been able to index for several years either. This is important to work on, hence the need for someone to work on this in particular.
 
-There is some discussion of ACM DL indexing on the [academia stackexchange](https://academia.stackexchange.com/questions/90832/do-non-acm-events-conferences-publish-index-their-final-proceedings-in-the-acm) that suggests that only a "small number" of conferences have proceedings indexed (as opposed to published) on the ACM DL. A current question is: is this actually possible or supported by ACM? 
+There is some discussion of ACM DL indexing on the [academia stackexchange](https://academia.stackexchange.com/questions/90832/do-non-acm-events-conferences-publish-index-their-final-proceedings-in-the-acm) that suggests that only a "small number" of conferences have proceedings indexed (as opposed to published) on the ACM DL. A current question is: is this actually possible or supported by ACM?
 
 ### Scopus
 
-A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. They have a long processing time, and we got a reply in June 2019 saying:  
-
-> Please be advised that the decision was made to accept this title in Compendex.
->
-> If necessary, our Source Collection Management department will contact the publisher in order to set up the content feed for Compendex. The title will be loaded in Compendex as soon as we have access to the title and the content has been processed for indexing. At this moment, there is no further action required from your end.
->
-> Regards,
->
-> EV Title Suggestion Team
-
-Will have to wait and see how this turns out.
+A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. In June 2019 we got a reply that they are looking into the case. In March 2020 we were informed that they will include NIME in Scopus. Waiting for it to show up. 
