@@ -50,27 +50,44 @@ NIME has been using an ACM paper template from the start, and it is time to look
 - How do we think about "number of pages"? Word count as limit?
 - How can we allow for version control and DOIs?
 
+
+### Items to include in template
+
+Should we have mandatory fields in the template for:
+
+- Data Availability Statement
+- Ethics Statement
+- Author Contributions
+- Funding
+- Conflict of Interest
+- Acknowledgments
+
+
 ## Links
 
 ### Existing publication tools
 
 - [Authorea](https://www.authorea.com/)
-- [Overleaf](http://overleaf.com/)
-- [Research Catalogue](https://www.researchcatalogue.net/)
+- [Distill.pub](https://distill.pub/guide/) 
+- [Git Repo](https://github.com/distillpub/template)
 - [Jupyter notebook](https://jupyter.org/) / [Colab](https://colab.research.google.com)
--   [Open Science Framework](https://osf.io)
 - [Manifold](https://manifoldapp.org)
 - [Open Journal System / Open Conference System](https://pkp.sfu.ca/ojs)
-- [Distill.pub Template](https://distill.pub/guide/) [Git Repo](https://github.com/distillpub/template)
+- [Open Science Framework](https://osf.io)
+- [Overleaf](http://overleaf.com/)
+- [PubPub · Community Publishing](https://www.pubpub.org/)
+- [Research Catalogue](https://www.researchcatalogue.net/)
 
-### Other communities
 
+### Other relevant communities
 
 -   [ICMC](https://quod.lib.umich.edu/i/icmc?page=home)
 -   [SMC](https://zenodo.org/communities/smc)
 -   [DAFx](http://www.dafx.de)
 -   [ISMIR](https://dblp.uni-trier.de/db/conf/ismir/)
 -   [ICAD](https://smartech.gatech.edu/handle/1853/49750)
+-   [WAC](https://webaudioconf.com/)
+-   [MOCO](https://www.movementcomputing.org/)
 
 
 ### Inspiration
