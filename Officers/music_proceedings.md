@@ -18,7 +18,7 @@ Most performances at NIME have been recorded, but they have only occasionally be
 1. Time and human resources for editing recorded content after the conference
 2. Legal issues, related to privacy (of audience members) and copyright issues (pieces and performers)
 
-For NIME 2019 a separate music proceedings booklet was made, with extended music abstracts.
+For NIME 2019 a separate music proceedings booklet was made, with extended music abstracts. These extended abstracts and their bibliograpnic information are available in the [Music page of the NIME website](https://www.nime.org/music/).
 
 In 2019, the Steering Committee has endorsed building up a proper NIME music proceedings archive using the [COMPEL](http://ico.bukvic.net/main/compel/) platform.
 
