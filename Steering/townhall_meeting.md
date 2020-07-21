@@ -48,6 +48,6 @@ The following questions were uesd in the evaluation form from NIME 2011.
 
 ## Awards
 
-Awards have always been a difficult question at NIME. On one side the SC wants the conference to be an inclusive event, in which the main aim is to share and discuss. On the other side, there is also an understanding that many other conferences and fields have awards, thus helping to promote the careers of participants.
+Awards have always been a difficult question at NIME. On one side, the SC wants the conference to be an inclusive event, in which the main aim is to share and discuss. Then awards may be seen as an unwanted, competitive element. On the other side, there is also an understanding that many other conferences and fields have awards. Thus having awards may help to inspire some and promote the careers of participants.
 
-The SC does not have a policy on awards for papers, posters, etc, and let the local chairs decide on if and how they want to create awards. The only award that the SC actively promotes, is the Pamela Z Award for Innovation.
+The SC does not have a policy on awards for papers, posters, etc, and let the local chairs decide on if and how they want to create awards. The only award that the SC actively promotes, is the [Pamela Z Award for Innovation](https://nime.gitbook.io/conference-cookbok/officers/winime#pamela-z-award-for-innovation).
