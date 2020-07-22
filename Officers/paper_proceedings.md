@@ -10,10 +10,9 @@ The paper proceedings archive officer will work closely with each year's [Paper 
 Officers:
 
 - Benedikte Wallace (Zenodo lead)
-- Pedro Pestana (Indexing lead)
 - Andrew McPherson
-- Federico Camara Halac
 - Balandino Di Donato
+
 
 ## General info about the proceedings
 
@@ -74,4 +73,4 @@ There is some discussion of ACM DL indexing on the [academia stackexchange](http
 
 ### Scopus
 
-A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. In June 2019 we got a reply that they are looking into the case. In March 2020 we were informed that they will include NIME in Scopus. Waiting for it to show up. 
+A request to register NIME in Scopus ([Engineering Village](https://suggestor.ei.engineeringvillage.com/faq/index)) was sent in June 2018. In June 2019 we got a reply that they are looking into the case. In March 2020 we were informed that they will include NIME in Scopus. Waiting for it to show up.
