@@ -9,7 +9,7 @@ Tasks:
 
 Officer:
 
-- Fabio Morreale
+- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
 
 ## Background
 
