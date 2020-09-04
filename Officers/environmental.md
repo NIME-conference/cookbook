@@ -8,6 +8,12 @@ Tasks:
 - Develop strategies for alternative conference organization
 - Develop guidelines for reducing the environmental footprint in NIME design
 
+Officers:
+
+- Adam Pultz Melbye
+- John Sullivan
+- Raul Masu
+
 
 ## Alternative conference organization
 
