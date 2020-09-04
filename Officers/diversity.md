@@ -7,6 +7,10 @@ Tasks:
 - Review, revise and/or create NIME policies
 - Work with future chairs on improving diversity
 
+Officers:
+
+- Laurel Pardue
+- Juan Pablo Martinez
 
 ## Background
 
