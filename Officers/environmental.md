@@ -1,10 +1,12 @@
 # Environmental issues officer
 
-Work on how to reduce the environmental footprint of the NIME conference
+Main goal: Work on how to reduce the environmental footprint of the NIME community
 
+Tasks:
 
-## Reducing environmental footprint during a physical conference
-
+- Support local chairs in how to run a more environmentally-friendly physical conference
+- Develop strategies for alternative conference organization
+- Develop guidelines for reducing the environmental footprint in NIME design
 
 
 ## Alternative conference organization
@@ -17,4 +19,4 @@ Work on how to reduce the environmental footprint of the NIME conference
 Examples of Virtual conferences:
 
 - [CIM19](https://sites.google.com/view/cim19/home)
-- [Neuronline](https://neuronline.sfn.org/Articles/Scientific-Research/2019/Machine-Learning-in-Neuroscience-Fundamentals-and-Possibilities) 
+- [Neuronline](https://neuronline.sfn.org/Articles/Scientific-Research/2019/Machine-Learning-in-Neuroscience-Fundamentals-and-Possibilities)
