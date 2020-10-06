@@ -1,13 +1,14 @@
 # General Chair
 
+The General Chair, or the two General Co-Chairs, are responsible for selecting and inviting all the other conference chairs, and for the successful planning and delivery of the conference. The General Chair/s become, by virtue of their role, members of NIME's Steering Committee.
 
 ## Before the conference
 
 ### Selecting Chairs
 
-Finding chairs for the various specific roles is one of the most important things to do early on for the general chair(s). We have seen that it may help to have to chairs for each position, possibly with one local and one international member working together.
+Finding chairs for the various specific roles is one of the most important things to do early on for the general chair(s). We have seen that it may help to have two chairs for each position, possibly with one local and one international member working together.
 
-This helps avoid biases in the selection review and selection processes, and when having to take important (and difficult) decisions that need discussion. Particularly for the roles of paper and music chairs it can help to be two people for each role to share the workload. This, of course, is based on a good communication between the chairs.
+This helps avoid biases in the selection review and selection processes, and when having to take important (and difficult) decisions that need discussion. Particularly for the roles of paper and music chairs it can help to have two people for each role to share the workload. This, of course, is based on good communication between the chairs.
 
 We suggest to set up mailing lists for each chair, with also the general chair(s) being copied into the discussions so as to ensure that progress is happening.
 
@@ -30,7 +31,7 @@ To be able to record presentations and performances, remember to include consent
 
 ## During the conference
 
-The most important role of the general chair is to act as a host. You should not plan to do anything in particular, nor be responsible for anything. You will be swamped by all sorts of questions anyways, and should have extra time to just talk to people, talk to journalists, etc.
+The most important role of the general chair is to act as a host. You should not plan to do anything in particular, nor be operationally responsible for anything. You will be swamped by all sorts of questions anyways, and should have extra time to just talk to people, talk to journalists, etc.
 
 
 ## After the conference
@@ -48,4 +49,4 @@ The conference organizer should at the end of the conference prepare an evaluati
 ** paper/music selection
 ** conference profile
 
-The most important is to understand what went well, and what can be improved.
+One way to help the drafting of the evaluation report is to open an online NIME Conference Survey on the last day of the Conference to all attendees, in order to collect detailed feedback and information on the conference. The most important thing is to understand what went well, and what can be improved.
