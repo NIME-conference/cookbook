@@ -41,12 +41,12 @@ The most important role of the general chair is to act as a host. You should not
 The conference organizer should at the end of the conference prepare an evaluation report for the steering committee. This evaluation report is mainly going to discuss various issues that can be valuable for future organizers. This may include:
 
 * practical matters:
-** economy
-** web page
-** conference management system
+  * economy
+  * web page
+  * conference management system
 
 * content:
-** paper/music selection
-** conference profile
+  * paper/music selection
+  * conference profile
 
 One way to help the drafting of the evaluation report is to open an online NIME Conference Survey on the last day of the Conference to all attendees, in order to collect detailed feedback and information on the conference. The most important thing is to understand what went well, and what can be improved.
