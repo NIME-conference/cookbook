@@ -3,12 +3,14 @@
 
 ## Before the conference
 
-
+In 2020 NIME was delivered online due to the Covid pandemic. In this "experiment" the NIME community got to experience first hand a remote event and analysed which aspects of this are feasible and to keep for future NIMEs, and which aren't. For this reason, before the conference there should be an in-depth discussion wether installations are meant to be solely physical and in loco, or if the NIME organising team is willing to set-up a support system for authors to submit remote installations. If so, this needs to be made clear and (I personally suggest) two separate categories are made: local installations and online installations.
 
 ### Proposal requirements
 
-The following information should be included in the proposal:
+The following information should be included in the proposal for local installations:
 
+* Title of the work
+* Names and short bios of contributing artists
 * description
 * installation
 * setup time (this is required when scheduling to estimate the time needed between installations)
@@ -19,6 +21,19 @@ The following information should be included in the proposal:
 * level of completion (i.e. is it an idea? has it been experimented? in refinement stages? completed?)
 * diagrams of the installation
 * video demos
+
+The following information should be included in the proposal for online installations:
+
+* Title of the work
+* Names and short bios of contributing artists
+* description
+* technical description
+* Proof of feasibility // link to prototype // references of previous similar work
+* Link to audio-visual documentation
+* description of experience
+* experience duration
+* audience roles
+* Access requirements
 
 ### Assessment criteria
 
@@ -34,6 +49,7 @@ Rate each along the following dimensions:
 
 ## During the conference
 
+During the conference the installation chairs are prompted to make sure that the installations run smoothly. In terms of the online installations this would also require reminding attendees of the existance of online installations that don't have the luxury of being in the physical space of the conference.
 
 ## After the conference
 
