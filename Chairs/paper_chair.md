@@ -2,9 +2,10 @@
 
 Main role: Be responsible for the scientific program during the conference. This includes:
 
-1. Directing the paper reviewing and selection process
-2. Making the presentation/poster/demo program
-3. Preparing the proceedings for archival
+1. Direct the paper reviewing and selection process
+2. Make the presentation/poster/demo program
+3. Run the paper presentations (oral and poster) during the conference
+4. Prepare the [proceedings archive](https://github.com/NIME-conference/NIME-bibliography/tree/master/paper_proceedings)
 
 The Paper Chair will work closely with the [Paper Archive Officer](../Officers/paper_proceedings.md).
 

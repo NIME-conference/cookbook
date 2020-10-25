@@ -1,11 +1,16 @@
 # Workshop Chair
 
+Main role: Be responsible for the workshops during the conference. This includes:
+
+1. Direct the workshop selection process
+2. Make the workshop program
+3. Be responsible for running the workshops during the conference
 
 ## Before the conference
 
 # Prepare call for participation (September)
 
-The call for workshop submissions is announced at the same time as the call for papers, presentations, and all other conference participation. 
+The call for workshop submissions is announced at the same time as the call for papers, presentations, and all other conference participation.
 
 # Using the Conference Management System (October)
 
@@ -13,7 +18,7 @@ At NIME 2020, Microsoft Conference Management Toolkit (CMT) was used by the conf
 
 # Review and select workshops (February–March)
 
-Workshop submissions are curated by the Workshop Chairs. Workshops are not selected by peer review. Instead, workshop chairs work together to choose which workshops will be included. For NIME 2020, the necessity for all workshops to be online enabled multiple parallel workshop sessions. When workshops take place in a venue (rather than online), considerations such as space and availability of rooms will determine the number of workshops that can take place. 
+Workshop submissions are curated by the Workshop Chairs. Workshops are not selected by peer review. Instead, workshop chairs work together to choose which workshops will be included. For NIME 2020, the necessity for all workshops to be online enabled multiple parallel workshop sessions. When workshops take place in a venue (rather than online), considerations such as space and availability of rooms will determine the number of workshops that can take place.
 
 When choosing which workshops to include in the conference, it is important to be aware of issues such as gender balance, diversity, accesibility, and any other factors that relate to the aims and ethos of NIME.  
 
@@ -25,7 +30,7 @@ At this stage, workshop authors should be given a deadline to confirm their acce
 
 # Send workshop day timetable to workshop authors (April – May)
 
-When the workshop day timetable has been planned, this should be sent to workshop authors. This is a good opportunity for authors to check important information (such as their final abstracts, preferred number of participants, and biographical information) before the schedule is published on the conference website. 
+When the workshop day timetable has been planned, this should be sent to workshop authors. This is a good opportunity for authors to check important information (such as their final abstracts, preferred number of participants, and biographical information) before the schedule is published on the conference website.
 
 At NIME 2020, online workshops enabled activities to run at any time of the day or night. This helped to make the workshop day more accessible, by facilitating participation by people who were based in different time zones.
 
@@ -39,9 +44,9 @@ An email reminder a few days before the conference gives workshop authors the ch
 
 ## During the conference
 
-Workshop authors choose how to run their workshops, but it's advisable for the workshop chairs to be present during the day, to respond to last-minute questions from the workshop authors and to decide which workshop should be awarded the NIME workshop prize (if such a prize is awarded). 
+Workshop authors choose how to run their workshops, but it's advisable for the workshop chairs to be present during the day, to respond to last-minute questions from the workshop authors and to decide which workshop should be awarded the NIME workshop prize (if such a prize is awarded).
 
-Workshop chairs are not expected to moderate or manage workshops; this is the responsibility of those leading the sessions. 
+Workshop chairs are not expected to moderate or manage workshops; this is the responsibility of those leading the sessions.
 
 ## After the conference
 
