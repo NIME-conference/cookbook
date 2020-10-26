@@ -1,13 +1,17 @@
-# Demo Chair
+# Poster/Demo Chair
 
-Main role: Be responsible for the demo presentations during the conference. This includes:
+Main role: Be responsible for the poster/demo presentations during the conference. This includes:
 
-1. Direct the demo paper reviewing and selection process
-2. Make the demo program
-3. Run the demo sessions during the conference
-4. Prepar the proceedings for archival
+1. Direct the poster/demo paper reviewing and selection process
+2. Make the poster/demo program
+3. Run the poster/demo sessions during the conference
+4. Prepare the proceedings for archival
 
-In many conferences there has not been a separate demo chair, as this role has been covered by the [Paper Chair](paper_chair.md).
+
+## Clarification of the role of poster/demo chairs
+
+In many conferences there have not been separate poster/demo chairs, as this role has been covered by the [Paper Chair](paper_chair.md). In other conferences there have been dedicated poster/demo chairs, who have been working with the paper chair during the reviewing and selection process. The main difference is probably during the conference, where the paper chair is typically responsible for running the oral presentations, while the poster/demo chairs run the poster/demo sessions.
+
 
 ## Clarification of the role of demo papers
 
