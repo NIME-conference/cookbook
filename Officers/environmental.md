@@ -20,7 +20,7 @@ Officers:
 - [The semi-virtual academic conference (a short documentary) - YouTube](https://www.youtube.com/watch?v=TPtDHidVyZE)
 - [Virtual socializing at academic conferences](http://www.parncutt.org/virtualsocializing.html)
 - [An analysis of ways to decarbonize conference travel after COVID-19](https://www.nature.com/articles/d41586-020-02057-2?s=09)
-
+- [Virtual ISMIR 2020](https://finnupham.com/2021/02/13/virtual-ismir-2020-exit-report/)
 
 Examples of Virtual conferences:
 
