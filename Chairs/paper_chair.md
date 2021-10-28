@@ -212,6 +212,7 @@ The exported BibTeX file need some "massaging" to match the other BibTeX files i
 #### Bibtex with Pubpub
 - Here is a script that scrapes Bibtex information from NIME's Pubpub community: [scrapeBibtexFromPubpub.py](https://github.com/NIME-conference/cookbook/blob/master/Chairs/attachments/scrapeBibtexFromPubpub.py). Instructions can be found at the top of the file. Note that the author names collected this way is based on what the author supplied on pubpub, and may differ from registration data (e.g. on CMT). 
 - Here is a script that converts the scraped Bibtex into NIME-compliant formats: [writeBibtexToBibFile.py](https://github.com/NIME-conference/cookbook/blob/master/Chairs/attachments/writeBibtexToBibFile.py). Carefully check the output for errors. 
+- If you are using your own scripts, remember to replace line breaks with whitespaces in the "abstract" field of Bibtex. 
 
 
 #### Send the material to the paper proceedings officer
