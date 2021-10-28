@@ -210,8 +210,8 @@ The exported BibTeX file need some "massaging" to match the other BibTeX files i
 - Insert right link to PDFs. Should be something like nime20XX_ID.pdf.
 
 #### Bibtex with Pubpub
-- Here is a script that scrapes Bibtex information from NIME's Pubpub community: [https://github.com/NIME-conference/cookbook/blob/master/Chairs/attachments/scrapeBibtexFromPubpub.py](scrapeBibtexFromPubpub.py). Instructions can be found at the top of the file. Note that the author names collected this way is based on what the author supplied on pubpub, and may differ from registration data (e.g. on CMT). 
-- Here is a script that converts the scraped Bibtex into NIME-compliant formats: [https://github.com/NIME-conference/cookbook/blob/master/Chairs/attachments/writeBibtexToBibFile.py](writeBibtexToBibFile.py). Carefully check the output for errors. 
+- Here is a script that scrapes Bibtex information from NIME's Pubpub community: [scrapeBibtexFromPubpub.py](https://github.com/NIME-conference/cookbook/blob/master/Chairs/attachments/scrapeBibtexFromPubpub.py). Instructions can be found at the top of the file. Note that the author names collected this way is based on what the author supplied on pubpub, and may differ from registration data (e.g. on CMT). 
+- Here is a script that converts the scraped Bibtex into NIME-compliant formats: [writeBibtexToBibFile.py](https://github.com/NIME-conference/cookbook/blob/master/Chairs/attachments/writeBibtexToBibFile.py). Carefully check the output for errors. 
 
 
 #### Send the material to the paper proceedings officer
