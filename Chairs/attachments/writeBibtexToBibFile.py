@@ -60,7 +60,7 @@ def process(article_number, paper_id, paper, bibtex):
     fields['year'] = '{%s}' % YEAR
     fields['month'] = MONTH
     fields['article-number'] = '{%d}' % article_number
-    fields['abstract'] = '{%s}' % (paper['abstract'].replace('\n', ' '))
+    fields['abstract'] = '{%s}' % (paper['abstract'].replace('\u2028', '\n').replace('\u2029', '\n').replace('\n', ' '))
     if paper['video_yt']:
         fields['presentation-video'] = '{https://youtu.be/%s}' % paper['video_yt']
     for key in [
