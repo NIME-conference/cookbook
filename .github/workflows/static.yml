@@ -36,17 +36,15 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-#       - run: npm install
-#       - run: npm run build
       - run: npm install -g markdown-folder-to-html
       - run: markdown-folder-to-html .
       - name: Look around
-        run: ls ../_cookbook
+        run: ls ../_${{ github.event.repository.name }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: '../_cookbook'
+          path: '../_${{ github.event.repository.name }}'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
