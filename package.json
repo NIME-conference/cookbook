@@ -1,0 +1,20 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "instructions for running the NIME conference",
+  "main": "README.md",
+  "scripts": {
+	"build": "markdown-folder-to-html ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIME-conference/cookbook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NIME-conference/cookbook/issues"
+  },
+  "homepage": "https://github.com/NIME-conference/cookbook#readme",
+  "devDependencies": {
+    "markdown-folder-to-html": "^2.4.0"
+  }
+}
