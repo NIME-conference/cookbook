@@ -36,7 +36,7 @@ jobs:
         with:
           node-version: 18
       - run: npm install
-      - run: npm build
+      - run: npm run build
       - name: Look around
         run: ls ../_cookbook
       - name: Upload artifact
