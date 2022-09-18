@@ -9,7 +9,13 @@ Tasks:
 
 Officer:
 
+- [Nicolas Gold](http://www0.cs.ucl.ac.uk/staff/N.Gold/)
+
+Members:
 - [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
+- [Cecile Chevalier](https://profiles.sussex.ac.uk/p235751-cecile-chevalier)
+- Raul Masu
+
 
 ## Background
 
