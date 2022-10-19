@@ -1,25 +1,24 @@
 '''
-replace `filename = 'withChannels.pickle'` with whatever input data.  
-`papers` is a list of dict. A dict should have `paper_id`, and `pub` is URL to the pubpub Pub.  
-Replace the check `.endswith('· NIME 2021'):` with your conference.  
+- Implement script `paperDatabaseInterface.py`.  
+- Replace the check `.endswith('· NIME 2021'):` with your conference.  
+- Run this script.  
+- Go to script `writeBibtexToBibFile.py`.  
 '''
 import time
 import pickle
+
+from tqdm import tqdm
 from selenium import webdriver
 from selenium.webdriver.chrome.webdriver import WebDriver
-from jdt import jdtIter
+
+from paperDatabaseInterface import getAllPapers
 
 def main():
-    filename = 'withChannels.pickle'
-    print('Reading from', filename)
-    with open(filename, 'rb') as f:
-        papers = pickle.load(f)
     driver = webdriver.Chrome('chromedriver')
     bibtex_dict = {}
-    for paper in jdtIter(papers):
-        paper_id = paper['paper_id']
-        bibtex = get(driver, paper['pub'])
-        bibtex_dict[paper_id] = bibtex
+    for paper in tqdm(getAllPapers()):
+        bibtex = get(driver, paper.pub_url)
+        bibtex_dict[paper.id] = bibtex
     with open('bibtex_dict.pickle', 'wb') as f:
         pickle.dump(bibtex_dict, f)
     driver.close()
