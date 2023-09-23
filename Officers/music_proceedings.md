@@ -76,6 +76,11 @@ The following template and instructions were sent to the accepted Music submissi
 > will accept this proposal with enthusiasm and we look forward to receiving  
 > your extended abstract.  
 
+## Template
+
+In 2019 and 2020 we used an adapted version of the ACM Extended Abstract template:
+- [LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt)
+- [Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
 
 ## Some issues to consider
 
