@@ -19,23 +19,19 @@ The CFP is usually adjusted slightly from year to year, but not be drastically d
 
 ### Set up the Conference Management System (October)
 
-NIME used Easyconf as the Conference Management System (CMS) for many years. After some bad experiences with server crashes, lack of support, and lack of multi-track functionality, we decided to move away. From 2012 NIME has been using Precision Conference as CMS. Chairs have reported this to be a solid system, although with some of a learning curve. It is also quite costly.
-
-In 2019 the SC has decided to switch to Microsoft Conference Management Toolkit. This CMS is used by ISMIR, WAC (and many others). The other option was EasyChair, which is used by SMC, MOCO (and many others). The reason for going for the Microsoft solution is the cost (free versus a £1000 cost for EasyChair) and a more modern GUI.
-
+NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.research.microsoft.com/) (CMT) which is available for free and is used by ISMIR, WAV, and many other conferences. Previously to CMT, NIME used to use Easyconf and Precision and another option may be EasyChair. All conference management systems have a learning curve and chairs are advised to read CMT's help documents regularly when performing different tasks as well as to discuss the experiences with previous chairs.
 
 ### Recruit reviewers (December)
 
-* Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs.
+- Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs.
 
 - Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgment of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
 
-* Be careful about accepting to take on reviewers that start out saying they have little time, and can do the reviews a bit late. If people first start being late, they may be vary late, or not deliver at all. It is a very tight timeline for the review process, so we cannot really have much delay.
+- Be careful about accepting to take on reviewers that start out saying they have little time, and can do the reviews a bit late. If people first start being late, they may be vary late, or not deliver at all. It is a very tight timeline for the review process, so we cannot really have much delay.
 
-* Be very strict about deadlines, and plan well ahead. The reviewer pool should be ready way before the deadline, preferably before Christmas. It is better to get too many than too few reviewers, so that you can spread the task on more people. Maximum number of papers should be 5, but 2-3 papers per person is better.
+- Be very strict about deadlines, and plan well ahead. The reviewer pool should be ready way before the deadline, preferably before the end of December. It is better to get too many than too few reviewers, so that you can spread the task on more people. Maximum number of papers should be 5, but 2-3 papers per person is better.
 
-* Prepare reviewers and meta-reviewers about what is coming when. Send out e-mails a week before every deadline. It is also important to send out information in advance to tell when papers are being distributed. That way people can plan time to do their review. This will save you time in the end.
-
+- Prepare reviewers and meta-reviewers about what is coming when. Send out e-mails a week before every deadline. It is also important to send out information in advance to tell when papers are being distributed. That way people can plan time to do their review. This will save you time in the end.
 
 ### Peer review (February)
 
