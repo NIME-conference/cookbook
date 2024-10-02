@@ -1,6 +1,6 @@
 # Music Chair
 
-Main role: Be responsible for the music program during the conference. This includes:
+Main role: Responsibility for the music program for the conference. This includes:
 
 1. Direct the music reviewing and selection process
 2. Make the music program
@@ -9,19 +9,22 @@ Main role: Be responsible for the music program during the conference. This incl
 
 The Music Chair will work closely with the [Music Archive Officer](../Officers/music_proceedings.md).
 
-
 ## Before the conference
-
 
 ### Create call for participation
 
-Here you should collaborate with the other chairs. NIME particularly supports submitting both artistic and scientific contributions ("Paper+Performance").
+The call for the previous year should be used as a starting point. Artistic calls for conferences can vary in terms of expectations so it's important to have clear information. The call for participation should include information about:
 
-For the call it may be particularly good to plan if you are able to provide performers/ensembles or special equipment/rooms.
+- formats that are acceptable (e.g., time limits or technical limitations)
+- the review process.
+- how to create a submission using the conference artistic abstract template
+- how accepted submissions will be presented
+- how accepted submsisions will be archived in the conference proceedings
+- whether there are special performers/ensembles/equipment/rooms avialable for this specific NIME.
 
 ### Anonymising music submissions
 
-Music submissions should be anonymised in order to help preventing bias during the reviewing process. However, it might be difficult at times to completely conceal the identity of the authors, especially when submitting images or videos necessary for the evaluation of the piece. Therefore, the music chairs should apply a "lean" anonymisation approach based on these basic criteria:
+Music submissions should anonymised on a best efforts basis to help prevent bias during the reviewing process. However, it might be difficult at times to completely conceal the identity of the authors, especially when submitting images or videos necessary for the evaluation of the piece. Therefore, the music chairs should apply a "lean" anonymisation approach based on these basic criteria:
 
 - a music submission should not have any trace of the authors' names and affiliations in the written material;
 - submitting audio and video material should be done using anonymous accounts;
@@ -37,21 +40,13 @@ Peer reviewing is an important part of the music submission process. The general
 
 The most important role of the music chair is to keep track of rehearsals during day time and concerts at night. It is advisable to compile all the technical requirements of the pieces included in the program in a single spreadsheet and share this information with the tech crew in order to make sure that all the equipment is available before the beginning of the conference.
 
-
 ### Documentation
 
 It is important to prepare good documentation of the events, in the form of high-quality audio and video recordings, as well as pictures.
 
-
 ## After the conference
 
-
-
-### Prepare music documentation
-
-The media recorded during the conference needs to be edited and made available.
-
-### Prepare Music/Artistic Proceedings
+### Prepare Artistic Proceedings
 
 As of 2019, the music proceedings are made openly available in the form of extended abstracts describing the aesthetic and techncial features of the pieces.
 
@@ -63,3 +58,7 @@ In order for these to be archived and made available on Zenodo and nime.org, fil
 URL ={http://www.nime.org/proceedings/2019/nime2019_music123.pdf}
 ```
 Starting from 2020, music proceedings are part of the artistic proceedings, which also include extended abstracts describing the accepted installations.
+
+### Prepare music documentation
+
+The media recorded during the conference needs to be edited and made available.
