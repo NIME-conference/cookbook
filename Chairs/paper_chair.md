@@ -17,6 +17,21 @@ The Paper Chair will work closely with the [Paper Archive Officer](../Officers/p
 The CFP is usually adjusted slightly from year to year, but not be drastically different. Please refer to [previous calls](../Info/Calls/cfp2012.md).
 
 
+### Update the paper template 
+
+- Ask the conference chair to be given access to the following repo : https://github.com/NIME-conference/nime-template
+- Update the conference information (and modification history) in nime-paper-template.tex and in the word template
+- Make sure everything compiles properly (e.g. on Overleaf)
+- Create a new release on the repo of the templates (see the previous releases for reference) :
+  - Standalone .docx file
+  - Zip archive for the .tex (so that it can be imported in Overleaf) containing :
+    - images folder
+    - ACM-Reference-Format.bst
+    - nime-paper-template.tex
+    - nimeart.cls
+    - sample-references.bib
+
+
 ### Set up the Conference Management System (October)
 
 NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.research.microsoft.com/) (CMT) which is available for free and is used by ISMIR, WAV, and many other conferences. Previously to CMT, NIME used to use Easyconf and Precision and another option may be EasyChair. All conference management systems have a learning curve and chairs are advised to read CMT's help documents regularly when performing different tasks as well as to discuss the experiences with previous chairs.
