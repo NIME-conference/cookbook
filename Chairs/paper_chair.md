@@ -2,15 +2,14 @@
 
 Main role: Be responsible for the scientific program during the conference. This includes:
 
-1. Direct the paper reviewing and selection process
-2. Make the presentation/poster/demo program
-3. Run the paper presentations (oral and poster) during the conference
-4. Prepare the [proceedings archive](https://github.com/NIME-conference/NIME-bibliography/tree/master/paper_proceedings)
+1. Direct the paper reviewing and selection process.
+2. Make the presentation/poster/demo program for the conference production.
+3. Run the paper presentations (oral and poster) during the conference.
+4. Prepare the [proceedings archive](https://github.com/NIME-conference/NIME-bibliography/tree/master/paper_proceedings).
 
 The Paper Chair will work closely with the [Paper Archive Officer](../Officers/paper_proceedings.md).
 
 ## Before the conference
-
 
 ### Prepare Call for participation (September)
 
@@ -38,7 +37,7 @@ NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.re
 
 ### Recruit reviewers (December)
 
-- Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs.
+- Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs. The [handle](https://github.com/NIME-conference/NIME-bibliography/tree/master/reviewers.) to past years' NIME reviewers.
 
 - Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgment of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
 
@@ -47,6 +46,22 @@ NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.re
 - Be very strict about deadlines, and plan well ahead. The reviewer pool should be ready way before the deadline, preferably before the end of December. It is better to get too many than too few reviewers, so that you can spread the task on more people. Maximum number of papers should be 5, but 2-3 papers per person is better.
 
 - Prepare reviewers and meta-reviewers about what is coming when. Send out e-mails a week before every deadline. It is also important to send out information in advance to tell when papers are being distributed. That way people can plan time to do their review. This will save you time in the end.
+
+Some useful links:
+
+- [Values and Roles in NIME reviews](https://github.com/NIME-conference/reviewing-guide/blob/main/README.md)
+- [Paper Track Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-reviewer.md)
+- [Paper Track Meta-Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-meta-reviewer.md)
+- [Music Track Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/music-reviewer.md)
+- Music Track Meta-Reviewer (see [Paper Track Meta-Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-meta-reviewer.md))
+
+- [NIME2025 Review process and instructions page](https://nime2025.org/reviewing/) present a good example of what mentioned above!
+
+### Paper Submission and Author Enquires
+
+- Common FAQ: https://nime2025.org/submissions/.
+- Author enquiries are addressed on NIME forum.
+
 
 ### Peer review (February)
 
