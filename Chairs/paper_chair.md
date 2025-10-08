@@ -1,5 +1,8 @@
 # Paper Chair
 
+(2025-10): latest update by Doga Cavdir, Yichen Wang and Florent Berthaut.
+
+
 Main role: Be responsible for the scientific program during the conference. This includes:
 
 1. Direct the paper reviewing and selection process.
@@ -9,7 +12,9 @@ Main role: Be responsible for the scientific program during the conference. This
 
 The Paper Chair will work closely with the [Paper Archive Officer](../Officers/paper_proceedings.md).
 
-## Before the conference
+## General Organization
+
+## Before Submission Deadline
 
 ### Prepare Call for participation (September)
 
@@ -30,7 +35,6 @@ The CFP is usually adjusted slightly from year to year, but not be drastically d
     - nimeart.cls
     - sample-references.bib
 
-
 ### Set up the Conference Management System (October)
 
 NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.research.microsoft.com/) (CMT) which is available for free and is used by ISMIR, WAV, and many other conferences. Previously to CMT, NIME used to use Easyconf and Precision and another option may be EasyChair. All conference management systems have a learning curve and chairs are advised to read CMT's help documents regularly when performing different tasks as well as to discuss the experiences with previous chairs.
@@ -38,12 +42,13 @@ NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.re
 ### Recruit reviewers (December)
 
 - Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs. The [handle](https://github.com/NIME-conference/NIME-bibliography/tree/master/reviewers.) to past years' NIME reviewers.
+  - Get the reviewer expertise areas and domain conflicts as early as possible (Do not hesitate to send an email through CMT to all reviewers and meta-reviewers).
 
 - Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgment of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
 
 - Be careful about accepting to take on reviewers that start out saying they have little time, and can do the reviews a bit late. If people first start being late, they may be vary late, or not deliver at all. It is a very tight timeline for the review process, so we cannot really have much delay.
 
-- Be very strict about deadlines, and plan well ahead. The reviewer pool should be ready way before the deadline, preferably before the end of December. It is better to get too many than too few reviewers, so that you can spread the task on more people. Maximum number of papers should be 5, but 2-3 papers per person is better.
+- **Be very strict about deadlines, and plan well ahead**. The reviewer pool should be ready way before the deadline, preferably before the end of December. It is better to get too many than too few reviewers, so that you can spread the task on more people. Maximum number of papers should be 5, but 2-3 papers per person is better.
 
 - Prepare reviewers and meta-reviewers about what is coming when. Send out e-mails a week before every deadline. It is also important to send out information in advance to tell when papers are being distributed. That way people can plan time to do their review. This will save you time in the end.
 
@@ -57,10 +62,14 @@ Some useful links:
 
 - [NIME2025 Review process and instructions page](https://nime2025.org/reviewing/) present a good example of what mentioned above!
 
-### Paper Submission and Author Enquires
+### Paper submission and author enquires
 
-- Common FAQ: https://nime2025.org/submissions/.
+- Common FAQ encountered can be found [here](https://nime2025.org/submissions/).
 - Author enquiries are addressed on NIME forum.
+
+
+
+## After Submission Deadline
 
 
 ### Peer review (February)
@@ -118,11 +127,45 @@ A few number of poorly anonymized submissions that were detected were "rescued" 
 
 It is very important to take conflicts of interest seriously, and to follow the NIME statements published online. Conflicts of interests are self-reported, but there are cases where reviewers have not reported possible conflicts. So it is important that the chair(s) do an extra check of this. You should remove any reviews that appear to be based on conflicts of interest.
 
+## Acceptances and Rejections
+
+### Acceptances
+
+### Conditional Acceptance
+
+
 ### Selection of papers
 
 The acceptance of papers should be based on the quality of the papers. We do not use a specific percentage for acceptance, it should solely be based on the quality reported by reviewers.
 
 While there is usually a good correlation between the review scores and quality, there may be cases, particularly with disagreements between reviewers, where also papers with borderline or even negative scores may be accepted. These, and other borderline cases, are usually discussed between meta-reviewers and chair(s).
+
+### Confirmation letter to send
+
+After paper reviewing there are different kinds of letter to send:
+
+<!-- this needs to be substantially updated @doga and @florent. -->
+* submitted and accepted as paper
+* submitted as paper but downgraded to poster
+* submitted as poster and accepted as such
+* submitted as concert but performed as club
+* submitted as concert but downgraded to demo
+
+
+
+### Prepare proceedings
+
+It is very important to thoroughly check that all camera-ready papers fulfil the requirements of the template.
+
+At NIME2025, the conference proceedings were handled by the conference proceeding chair.
+
+<!-- is this needed? -->
+<!-- #### Test print the proceedings
+
+We are not printing the NIME proceedings for the conferences any longer. Please remember that many people still print individual papers, so it is advisable to test print all papers to check if any errors occur. -->
+
+
+## Preparing for / During the Conference
 
 ### Programming
 
@@ -134,40 +177,24 @@ If the chair(s) think it works best, it may be worth "upgrading" a poster submis
 
 It is more common to "downgrade" an oral presentation to poster, or a poster to demo. It should be communicated clearly that at NIME, both posters and demos are of high value, and often also papers that receive very high review scores are being presented as poster. It is the responsibility of the chair(s) to decide whether a "downgrade" should also be combined with a reduction in the number of pages of the paper. This is a question about the content of the paper, and whether the reviewers think the paper has enough content to fill, say, 6 pages. If not, then the authors should be asked to reduce it to 4 pages.
 
+### NIME2025 presentation format logistics
 
-### Confirmation letter to send
+Considering authors attendance decision, and travel costs, and other factors, all accepted paper submissions were assigned a presentation slot (either oral or poster) at the conference, independent of onsite or remote attendance.
 
-After paper reviewing there are different kinds of letter to send:
+The presentation format was chosen by the paper chairs for the conference program curation.
 
-* submitted and accepted as paper
-* submitted as paper but downgraded to poster
-* submitted as poster and accepted as such
-* submitted as concert but performed as club
-* submitted as concert but downgraded to demo
+More can be found [here](https://nime2025.org/camera-ready/).
 
 
-### Prepare proceedings
+#### Presentation duration
 
-It is very important to thoroughly check that all camera-ready papers fulfill the requirements of the template.
+The presentation duration can depend on the conference programming.
 
-
-#### Test print the proceedings
-
-We are not printing the NIME proceedings for the conferences any longer. Please remember that many people still print individual papers, so it is advisable to test print all papers to check if any errors occur.
-
-
-
-
-
-## During the conference
-
-### Presentation duration
-
-Previously there was a difference in presentation time between short and long papers. That has changed, and all presentations are now equally long.
+In the past, it had both different or equal long presentation duration for different paper categories (short, medium and long.)
 
 There have been different duration of the talks, but they generally follow this pattern:
 
-* 10-15 min presentation + 3 min questions + 2 min turnover
+* 5/10/15 min presentation + 3 min questions + 2 min turnover
 
 Remember to inform presenters about the duration of talks every time you have the chance, since people tend to forget.
 
@@ -241,6 +268,8 @@ The exported BibTeX file need some "massaging" to match the other BibTeX files i
 - If you are using your own scripts, remember to replace line breaks with whitespaces in the "abstract" field of Bibtex. Beware of unusual line breaks such as LS (Unicode character 2028) and PS (Unicode character 2029).
 
 
-#### Send the material to the paper proceedings officer
+## Conference Proceedings and NIME proceedings officer
 
 The NIME paper proceedings officer will help with the above, and will also do the final upload to nime.org.
+
+*Ideally, conference proceedings should be ready on the conference website's before the conference.*
