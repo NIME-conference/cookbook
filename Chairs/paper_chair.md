@@ -71,6 +71,19 @@ Some useful links:
 
 ## After Submission Deadline
 
+### Desk reject (week after the deadline)
+
+This phase helps removing papers that would otherwise take up reviewing time.
+It can be done directly by the paper chair(s) and consist in going through all submissions and checking for :
+
+- Non-anonymised papers (visible author names, visible institutions, links to videos or websites with visible author names)
+- Papers which are clearly too long
+- Papers which do not use the NIME template
+- Empty or non finalised papers (e.g. with empty or not draft sections)
+
+All these potential reasons should be explicitely given on the submission page and desk rejects should immediately be notified to the authors (a template can be created in CMT). 
+In some cases, authors might respond quickly that fixes for anonymity can be done rapidly, in which case paper chair(s) can accept (or not) a new pdf that they will themselves check for other changes and upload on CMT (it is best not to reopen submissions only for that).
+
 
 ### Peer review (February)
 
