@@ -14,12 +14,97 @@ The Paper Chair will work closely with the [Paper Archive Officer](../Officers/p
 
 ## General Organization
 
+### Timeline
+We discussed the timeline with the general chairs to create some room for late reviews after suggestions from NIME 24 paper chairs; however, it was not possible to make many changes which made sense considering that this year’s submission deadline was later than usual. There are periods that require buffer times, such as after review deadlines and before sending decisions. But it is important not to stretch these deadlines because, depending on the location of the conference, there will be many logistical issues and it is helpful to provide the participants with a program when they are planning their attendance. 
+
+The timeline will be busier when finding reviewers which we strongly suggest starting early before the submission deadline. We will detail this process in the later sections. 
+
+#### Internal Timelines
+We created an internal timeline, only for the paper chairs, based on the timeline shared by the general chairs. We suggest marking on the timeline/calendar and account for the time for communications around the deadlines. We set internal deadlines for 2 weeks, sometimes 1 week, and 2-3 days before the review deadlines or the start of a new review phase (e.g., when meta-review opens).
+
+#### Deadlines
+##### Submission deadlines
+Like previous year’s chairs, we strongly recommend against extending the submission deadlines or accepting late submissions. More communication around the two submission deadlines are, of course, helpful, but more relevant in the later stages. 
+
+Because we had a relatively tight schedule to create the reviewers pool, go through the desk rejects, and complete review assignments, we did not accommodate late submissions. The first submission deadline already filters through those who are likely to ask for extensions. However, just to reiterate, it is not a good idea to accommodate late submissions. It is unfair to the other authors who submitted on time and creates delays in the review process. 
+
+At times, this request can be difficult to refuse and we found that communicating that no deadline extensions will be granted and how it impacts the review cycle on the submission site was helpful. Here is an example: https://nime2025.org/submissions/.
+
+#### Review deadlines
+Reminders and communicating the deadlines clearly during the review assignments were the **most important** to ensure reviews were submitted on time. Most reviewers submitted theirs on time with a few exceptions. 
+
+The problem we faced this year was that the quality of a few reviews were not up to the standards. There are a few reasons for this mismatch in review qualities. We will describe them later. But this is one of the reasons to add a few days, or a week if you can, between the review deadline and the meta review discussion phase.
+
+#### Meta-Review deadlines
+
+NIME review process does not make much use of CMT’s discussion option during the review process. This option was used by some meta reviews in the most helpful ways. We saw the benefit of encouraging the meta reviewers to 1) rate the reviews, 2) communicate with reviewers whose reviews do not meet the expectations, and 3) discuss any conflicting reviews between the reviewers and meta reviewers. 
+
+We had one week for meta-reviewers to lead the discussion phase and another week to decide on the acceptances.
+
+#### Desk rejection (DR) timeline
+All submissions must be checked whether or not they have to be desk rejected before starting the review assignments. 
+Desk rejections were final in 2025 for one exception.  
+- We had one case where the authors argued that the institution name was too generic to necessitate DR. 
+This might not be much of an issue for larger conferences, but NIME is a small community and it is likely that the authors know each other or the NIME researchers in specific institutions. 
+
+Although it is important to include as many papers as possible in the review process, it is also not fair to the PC committee to mask or fix anonymization issues for each paper with anonymization issues. Likewise, it is not advised to re-open the submission process. 
+
+We sent out the desk rejections as soon as we knew their status without waiting for the review process to be completed to allow the authors to consider resubmitting their works to other conferences. 
+
+It is expected that there will be more rejections due to the anonymization issues during the review process. We had one case that was caught by one of us after the reviews were completed. Overall, the desk rejections reduce the number of reviewable submissions and save reviewer time. 
+
+#### Decision timeline 
+
+Decisions should reach the authors at the same time, except for desk rejects which we decided to announce once we finalized the initial DJ decisions. 
+
+#### Conditional Acceptance Process in NIME2025
+
+At NIME2025,  we had a conditional acceptance phase before the final acceptance.
+
+The phase was primarily based oninitial review results, which are mostly swing / borderline scores, as well as meta-reviews. We have gone through all submissions’ decisions and decided to give conditional acceptance to submission with recommendations from meta-reviews. After carefully reviewing all submissions and considering the meta-reviews, we granted conditional acceptance to selected papers. These submissions are expected to address constructive feedback and incorporate reviewer suggestions to meet the acceptance criteria. Please see details below.
+
+> We want to highlight that CA should ideally remain a minority, as they increase the workload between the final decision and camera-ready deadline.
+
+The conditional acceptance timeline is relatively short for PCs because it requires communicating with the authors, receiving the resubmissions on time, reviewing the conditional acceptance for camera ready, and notifying the authors. It is also an uncertain period for the authors while the registration opens and they have to make a decision whether or not to participate based on the acceptance and rejection decisions. At the end, general chairs decided to extend the registration deadline by one week to accommodate authors traveling from far. 
+
+One criteria we discussed among PCs was whether or not the missing ethics statement was a desk reject or conditional accept because ethics statements for all submissions are required by NIME Ethics Code. We decided to conditionally accept those cases and there are easy fixes. However, so many submissions miss including the ethics statements and it significantly increased the number of conditional accept cases and PC’s workload between the decision notifications and camera ready deadlines. 
+
+One important consideration is not to give the option for conditional accept decision to the meta-reviewers because it is far over-used and creates a great imbalance between decisions. We finalized the decisions on the conditional accepts with the reviewers and meta-reviewers’ suggestions. There is a very short period where the authors can revise their papers to meet the conditions for acceptance which should be clearly defined in the email with decision notifications. When this condition was not clear, we added one of the PCs as a second/senior meta-reviewer and left a short description about what the condition should be for some of the papers.   
+
+The distinctions between the conditional accept and rejections should be clear. Sometimes, the paper needs major revisions to be ready for publication even though it has potential for a great paper. Because all conditional acceptances require reviews for camera ready and unless it is clearly communicated with the meta-reviewers, PCs end up reviewing all of the camera ready papers which is another reason to be mindful of assigning conditional acceptances liberally. 
+
+On the other hand, this process benefited increasing the quality of the papers that need to address reviewer concerns and go through the minor revisions. 
+
+### Preparing for the Conference
+
+Another logistical nightmare is preparing the program for oral presentations. It is not an easy challenge to navigate multiple timezones (Americas, Europe, and Asia/Australia) and thematically group the papers. Consider communicating with the chairs regarding their plans for hybrid participation, local participation which was a *big consideration* in 2025, and sharing participation information from registration. Even the presentation formats that the conference decides to accommodate will impact preparing for the presentation programs. 
+
+#### Program Announcement and Presentation Formats
+The presentation formats should ideally be announced before the registration deadline. We announced the presentation program approximately a month before because the more authors realized how far and expensive it was to travel to Australia, the more changes regarding registration and participation we had to accommodate in the program. Communicating with the general chairs earlier about their plans with participation formats and registrations and how well they want to accommodate different timezones is helpful. 
+
+Before you can finalize the program for the Paper Track, a few things have to be completed in parallel. First, you need to decide the presentation formats. This year, we had three types of papers because paper length corresponded to its contribution; however, not the quality. We had really good papers with oral presentations that were not necessarily long papers. Separating the timelines for announcing presentation formats and acceptances was very helpful and provided an additional week of selecting the better papers for presentations. 
+
+We planned for 40 oral presentations and approximately 60 poster presentations. We tried to balance different length papers among the oral presentations. Everyone could bring a demo and present their demos during the poster sessions regardless of presentation types.  
+
+Second, we grouped the papers according to research themes and time zones. With a conference location far from the majority of NIME research institutions, we had to plan for 2-3 sessions that were mainly online presentations. This process requires a bit of juggling and keeping some of the session topics flexible and broad. 
+
+#### Session Chair Assignments
+
+A few weeks before the conference, we started selecting the session chairs mostly from local researchers, either from the host institutions or institutions within the country. The most important is to find session chairs who know the subject of the session’s theme well and can ask questions to the presenters. In a few cases, we reached out to authors whose in person participation was confirmed. We suggest assigning one main chair and a supporting chair and communicating with both of them so that in case of a change in the session chair’s schedule, there is another chair who can lead the session.
+
+#### Awards
+
+We select based on the average review scores. We get the top 5 to 10 candidates and go through them and vote our choice among paper chairs.
+This is given to general chairs for final decisions. 
+
+This is the paper award category for NIME2025:
+- 1 best paper 
+- 2 highly commended 
+- 1 Pamela Z Award (inclusion)
+
+
+
 ## Before Submission Deadline
-
-### Prepare Call for participation (September)
-
-The CFP is usually adjusted slightly from year to year, but not be drastically different. Please refer to [previous calls](../Info/Calls/cfp2012.md).
-
 
 ### Update the paper template 
 
@@ -39,10 +124,19 @@ The CFP is usually adjusted slightly from year to year, but not be drastically d
 
 NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.research.microsoft.com/) (CMT) which is available for free and is used by ISMIR, WAV, and many other conferences. Previously to CMT, NIME used to use Easyconf and Precision and another option may be EasyChair. All conference management systems have a learning curve and chairs are advised to read CMT's help documents regularly when performing different tasks as well as to discuss the experiences with previous chairs.
 
+There are a few important settings on CMT that need to be set up and reviewed before CMT opens for paper submissions. When any user (author, reviewer, meta) creates their profiles or logins to the conference submission form for the first time, CMT can request for their individual domain conflicts as well as their subject areas. This information becomes really important in the review process when matching reviewers with papers that do not have any conflicts. Another one is permission and visibility rules for the reviewers and meta-reviewers. We recommend enabling the discussion between meta-reviewers and reviewers which can be helpful in aligning reviews that are significantly different from each other. 
+
+
 ### Recruit reviewers (December)
 
 - Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs. The [handle](https://github.com/NIME-conference/NIME-bibliography/tree/master/reviewers.) to past years' NIME reviewers.
-  - Get the reviewer expertise areas and domain conflicts as early as possible (Do not hesitate to send an email through CMT to all reviewers and meta-reviewers).
+  - **Get the reviewer expertise areas and domain conflicts as early as possible (Do not hesitate to send an email through CMT to all reviewers and meta-reviewers)**.
+
+- Recruiting reviewers should start *before the submission deadline*. Otherwise, there is not much time to find reviewers after the final submission deadline because the next review phase should technically start right after the final deadline and all papers should be reviewed for desk rejection before the reviewers are allocated. 
+
+  - Feel free to make use of the peer review process by inviting authors to review other submissions. It is better to provide a good mix of peer reviews and more experienced reviewers. 
+
+  - We recommend publishing reviewer registration forms and how to guide for reviewers and meta-reviewers (or links to the guides) on the conference website before the submission deadline.
 
 - Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgment of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
 
@@ -62,11 +156,14 @@ Some useful links:
 
 - [NIME2025 Review process and instructions page](https://nime2025.org/reviewing/) present a good example of what mentioned above!
 
-### Paper submission and author enquires
+#### Reviewer Registration
+
+To attract reviewers, we published a reviewer registration form on the conference website, NIME mailing list, and the paper submission form. The reviewers registered from the form should still be invited through CMT and accept the reviewer invitations because this process ensures better responsiveness and communication, unfortunately not the quality. 
+
+### Call for Papers an& Author Enquires
 
 - Common FAQ encountered can be found [here](https://nime2025.org/submissions/).
 - Author enquiries are addressed on NIME forum.
-
 
 
 ## After Submission Deadline
@@ -84,6 +181,34 @@ It can be done directly by the paper chair(s) and consist in going through all s
 All these potential reasons should be explicitely given on the submission page and desk rejects should immediately be notified to the authors (a template can be created in CMT). 
 In some cases, authors might respond quickly that fixes for anonymity can be done rapidly, in which case paper chair(s) can accept (or not) a new pdf that they will themselves check for other changes and upload on CMT (it is best not to reopen submissions only for that).
 
+### Submission Management
+
+Even though the submissions change between two deadlines, the first (abstract, title, authors) deadline indicates the maximum number of papers and reviewers/meta-reviewers needed. 
+
+Feel free to communicate with the prospective authors after the first deadline through CMT’s emailing option.  
+
+### Desk Reject
+
+It is always hard and sad to desk reject papers that have anonymization issues. Please, email to all authors on CMT after the abstract submission to remind them of the anonymization rules. This email will also eliminate disputes regarding desk reject decisions. 
+
+Regardless, you must go through all submissions whether they can proceed to the next review phase. Desk rejections are not limited to but mainly related to anonymization issues. Here are some basics to look for:
+- Is the file name anonymous?
+- Are the author names at the top of the file removed?
+- Are the acknowledgments and ethics statements anonymized?
+- Does the file have reviewable content - is it complete, without empty sections?
+- Are the footnotes (ie, github links) anonymized? (We had some cases where the Github pages were not anonymized.)
+- Check the supplementary materials, are they anonymized? 
+- Check if the word count is outside the allowed limits. Is it a desk reject or conditional accept in that case? This case depends on how short or long the paper is outside the word count boundaries. 
+
+Other and more obvious issues that lead to desk rejections:
+- Missing submissions. 
+- The paper is written in a significantly different template. The template should be obviously different or unacceptable for a desk reject decision. You also do not want to lose a good paper or over-punish authors for small mistakes (e.g., using previous years’ templates is fixable in .).
+- The submission does not follow the basic academic paper flows.
+- The submission is clearly not a NIME or relevant research. 
+
+Some authors over-anonymize their papers, fearing a desk rejection, which often removes reviewable content such as blocking or removing images, etc. This is another reason to articulate what a desk reject is clearly both in the paper templates and on conference and submission websites (i.e., submission guide and CMT).
+
+**Desk rejections must be final.**
 
 ### Peer review (February)
 
@@ -139,6 +264,43 @@ A few number of poorly anonymized submissions that were detected were "rescued" 
 #### Conflicts of interest
 
 It is very important to take conflicts of interest seriously, and to follow the NIME statements published online. Conflicts of interests are self-reported, but there are cases where reviewers have not reported possible conflicts. So it is important that the chair(s) do an extra check of this. You should remove any reviews that appear to be based on conflicts of interest.
+
+#### *On Reviewer and Meta-reviewer Assignments and Communication* 
+
+Although we did not experience problems with ghost reviewers so much, we had some issues with the quality of the reviews and meta-reviews. Unfortunately, there is not an easy way of knowing it because we had some reviews or meta-reviews from reviewers who were seniors, responsive, and willing to review. In our experiences, new reviewers put more effort in detailing their reviews than some of the more senior reviewers. 
+
+Different types of communication helps eliminate these issues: 
+1) Communicating the expectations with the reviewers early. Courtney and Astrid had really nice reviewer guides which we published a shortened version on Github. Even better would be signing a reviewer agreement to make sure that the reviewers read the expectations. 
+
+Another place to communicate expectations is CMT’s review submission portal. We had several questions guiding reviewers on CMT to write fully rounded reviews. 
+
+2) Facilitating communication between reviewers and meta-reviewers. Meta-reviewers should also remind the authors of the deadlines and check the quality of the reviewers to keep them up to standards. We took extra time to allocate experienced (and trustworthy) meta-reviewers. We mostly utilized our own networks which resulted in faster communication and better review quality.
+
+3) Communicating with the music chairs or overseeing that the reviewers are not getting overloaded with BOTH paper and music reviews. It is a really bad idea to assign duplicate review assignments because some reviewers just accept any requests unrealistically. (check duplicate emails –institutional and personal emails for the same reviewers– and check music and paper tracks.) We also did not assign meta-review and review tasks to the same reviewers, and instead prioritised them for one or the other. 
+
+The last one is very important! We had almost no communication with the music chairs but we shared a subset of the reviewer pool with their track. We absolutely recommend separating the two reviewer lists. We saw some reviewers who accepted reviewer requests from both tracks AND from multiple emails and were assigned more than 10 reviews in total. We ended up removing those reviewers from the paper track or assigning them a small number of reviews which resulted in very poor reviews. 
+
+4) Respecting reviewers/meta-reviewers’ requests for the maximum number of reviews when accepting the request. We experienced that most reviewers say yes if we ask them to review less than three papers. 
+
+5) Wild suggestions would be to hold group meetings, similar to subcommittee meetings, with the meta reviewers to communicate the expectations from them and from the reviewers as well as the changes in the review process. In general, it is a good practice to encourage meta-reviewers to establish a closer communication with the reviewers because most reviewers/meta-reviewers often do not read the reviewer guides or information in long emails.
+
+##### Dealing with reviews that do not meet the expectations
+
+We reached out to the reviewers individually whose reviews did not meet the expectations and requested expanding and detailing their reviews further. Almost all of them expanded their reviews after communicating the expectations. 
+
+Having a few backup reviewers that you know who are fast in communication and reviewing can be a lifesaver. We had 2-3 cases where we needed to bring emergency reviewers. 
+
+##### How many reviewers and meta-reviewers needed:
+
+Because some reviewers ghost, some request less than 3 reviews, and some reviews will not meet the expectations, to ensure at least 2-3 good quality reviews and 1 meta-reviewer, we assigned each submission 4 reviewers and 1 meta-reviewer. 
+
+After the first deadline, we started with 211 submissions. A few of them deleted or withdrew their submissions and at the end, we received 194 submissions. 39 papers were either withdrawn or desk rejected before reviewer assignments. 14 of them were desk rejected due to one of the reasons above and 25 of them were incomplete submissions. 155 submissions were eligible for reviews. One paper was withdrawn in the conditional accept process and one was desk rejected after the reviews. 
+
+We believe that 4 papers per reviewer can be too much and cause delays. We tried to keep the quota at 3 max, except for 15 reviewers who received 4 assignments. For 155 papers, we had 267 reviewers who completed all their reviews and 6 of them partially. Reviewers received assignments between 2 - 4 reviews. In addition to the reviewers, we had 58 meta-reviewers with only one ghost meta-reviewer. 
+
+The number of reviewers can be less, meaning that each reviewer will review more papers which is easier to keep track and communicate with. However, more delays and rushed reviews should be expected. We also realized in our communication with previous reviewers, that assigning too many reviews will decrease the chance of them reviewing in the next few years. 
+
+
 
 ## Acceptances and Rejections
 
