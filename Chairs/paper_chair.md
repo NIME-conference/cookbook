@@ -168,19 +168,6 @@ To attract reviewers, we published a reviewer registration form on the conferenc
 
 ## After Submission Deadline
 
-### Desk reject (week after the deadline)
-
-This phase helps removing papers that would otherwise take up reviewing time.
-It can be done directly by the paper chair(s) and consist in going through all submissions and checking for :
-
-- Non-anonymised papers (visible author names, visible institutions, links to videos or websites with visible author names)
-- Papers which are clearly too long
-- Papers which do not use the NIME template
-- Empty or non finalised papers (e.g. with empty or not draft sections)
-
-All these potential reasons should be explicitely given on the submission page and desk rejects should immediately be notified to the authors (a template can be created in CMT). 
-In some cases, authors might respond quickly that fixes for anonymity can be done rapidly, in which case paper chair(s) can accept (or not) a new pdf that they will themselves check for other changes and upload on CMT (it is best not to reopen submissions only for that).
-
 ### Submission Management
 
 Even though the submissions change between two deadlines, the first (abstract, title, authors) deadline indicates the maximum number of papers and reviewers/meta-reviewers needed. 
@@ -192,7 +179,7 @@ Feel free to communicate with the prospective authors after the first deadline t
 It is always hard and sad to desk reject papers that have anonymization issues. Please, email to all authors on CMT after the abstract submission to remind them of the anonymization rules. This email will also eliminate disputes regarding desk reject decisions. 
 
 Regardless, you must go through all submissions whether they can proceed to the next review phase. Desk rejections are not limited to but mainly related to anonymization issues. Here are some basics to look for:
-- Is the file name anonymous?
+- Is the file name anonymous (visible author names, visible institutions, links to videos or websites with visible author names)?
 - Are the author names at the top of the file removed?
 - Are the acknowledgments and ethics statements anonymized?
 - Does the file have reviewable content - is it complete, without empty sections?
@@ -201,12 +188,16 @@ Regardless, you must go through all submissions whether they can proceed to the 
 - Check if the word count is outside the allowed limits. Is it a desk reject or conditional accept in that case? This case depends on how short or long the paper is outside the word count boundaries. 
 
 Other and more obvious issues that lead to desk rejections:
-- Missing submissions. 
+- Missing/Incomplete submissions. 
 - The paper is written in a significantly different template. The template should be obviously different or unacceptable for a desk reject decision. You also do not want to lose a good paper or over-punish authors for small mistakes (e.g., using previous years’ templates is fixable in .).
 - The submission does not follow the basic academic paper flows.
 - The submission is clearly not a NIME or relevant research. 
 
 Some authors over-anonymize their papers, fearing a desk rejection, which often removes reviewable content such as blocking or removing images, etc. This is another reason to articulate what a desk reject is clearly both in the paper templates and on conference and submission websites (i.e., submission guide and CMT).
+
+All these potential reasons should be explicitly given on the submission page and desk rejects should immediately be notified to the authors (a template can be created in CMT). 
+In some cases, authors might respond quickly that fixes for anonymity can be done rapidly, in which case paper chair(s) can accept (or not) a new pdf that they will themselves check for other changes and upload on CMT (it is best not to reopen submissions only for that).
+
 
 **Desk rejections must be final.**
 
