@@ -69,7 +69,7 @@ The conditional acceptance timeline is relatively short for PCs because it requi
 
 One criteria we discussed among PCs was whether or not the missing ethics statement was a desk reject or conditional accept because ethics statements for all submissions are required by NIME Ethics Code. We decided to conditionally accept those cases and there are easy fixes. However, so many submissions miss including the ethics statements and it significantly increased the number of conditional accept cases and PC’s workload between the decision notifications and camera ready deadlines. 
 
-One important consideration is not to give the option for conditional accept decision to the meta-reviewers because it is far over-used and creates a great imbalance between decisions. We finalized the decisions on the conditional accepts with the reviewers and meta-reviewers’ suggestions. There is a very short period where the authors can revise their papers to meet the conditions for acceptance which should be clearly defined in the email with decision notifications. When this condition was not clear, we added one of the PCs as a second/senior meta-reviewer and left a short description about what the condition should be for some of the papers.   
+One important consideration is not to give the option for conditional accept decision to the meta-reviewers because it is far over-used and creates a great imbalance between decisions. We finalized the decisions on the conditional accepts with the reviewers and meta-reviewers’ suggestions. There is a very short period where the authors can revise their papers to meet the conditions for acceptance which should be clearly defined in the email with decision notifications. When this condition was not clear, we added one of the PCs as a second/senior meta-reviewer and sent emails to explain about what the condition should be for some of the papers.   
 
 The distinctions between the conditional accept and rejections should be clear. Sometimes, the paper needs major revisions to be ready for publication even though it has potential for a great paper. Because all conditional acceptances require reviews for camera ready and unless it is clearly communicated with the meta-reviewers, PCs end up reviewing all of the camera ready papers which is another reason to be mindful of assigning conditional acceptances liberally. 
 
@@ -125,6 +125,11 @@ This is the paper award category for NIME2025:
 NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.research.microsoft.com/) (CMT) which is available for free and is used by ISMIR, WAV, and many other conferences. Previously to CMT, NIME used to use Easyconf and Precision and another option may be EasyChair. All conference management systems have a learning curve and chairs are advised to read CMT's help documents regularly when performing different tasks as well as to discuss the experiences with previous chairs.
 
 There are a few important settings on CMT that need to be set up and reviewed before CMT opens for paper submissions. When any user (author, reviewer, meta) creates their profiles or logins to the conference submission form for the first time, CMT can request for their individual domain conflicts as well as their subject areas. This information becomes really important in the review process when matching reviewers with papers that do not have any conflicts. Another one is permission and visibility rules for the reviewers and meta-reviewers. We recommend enabling the discussion between meta-reviewers and reviewers which can be helpful in aligning reviews that are significantly different from each other. 
+
+In addition to CMT, it is worth having documents with live-editing shared between paper chairs, which is something (live-editing) that CMT does not enable: 
+
+- A **shared text document to prepare email templates** (which are not shared between chairs on CMT, i.e. one only sees their own templates) or potential individual responses to reviewers / meta / authors.
+- A **shared spreadsheet in which the list of submissions can be imported**, and more easily sorted, filtered and commented than on CMT.  This can be done early on, as updates to scores can be reimported easily. Overall scores combining meta and reviewers scores can be computed there, for example to help when discussing borderline submissions and awards. This also helps when deciding on conditional acceptance, paper length, presentation formats, since these can be changed separately (i.e. as separate columns) before being merged in one “status” (e.g. “Accept As 6000 Words Poster”) on CMT. The shared spreadsheet can finally be used to keep track of the attendance (which helps to decide on presentation format) and compute statistics on submissions.
 
 
 ### Recruit reviewers (December)
@@ -275,13 +280,13 @@ The last one is very important! We had almost no communication with the music ch
 
 5) Wild suggestions would be to hold group meetings, similar to subcommittee meetings, with the meta reviewers to communicate the expectations from them and from the reviewers as well as the changes in the review process. In general, it is a good practice to encourage meta-reviewers to establish a closer communication with the reviewers because most reviewers/meta-reviewers often do not read the reviewer guides or information in long emails.
 
-##### Dealing with reviews that do not meet the expectations
+#### Dealing with reviews that do not meet the expectations
 
 We reached out to the reviewers individually whose reviews did not meet the expectations and requested expanding and detailing their reviews further. Almost all of them expanded their reviews after communicating the expectations. 
 
 Having a few backup reviewers that you know who are fast in communication and reviewing can be a lifesaver. We had 2-3 cases where we needed to bring emergency reviewers. 
 
-##### How many reviewers and meta-reviewers needed:
+#### How many reviewers and meta-reviewers needed:
 
 Because some reviewers ghost, some request less than 3 reviews, and some reviews will not meet the expectations, to ensure at least 2-3 good quality reviews and 1 meta-reviewer, we assigned each submission 4 reviewers and 1 meta-reviewer. 
 
@@ -291,14 +296,7 @@ We believe that 4 papers per reviewer can be too much and cause delays. We tried
 
 The number of reviewers can be less, meaning that each reviewer will review more papers which is easier to keep track and communicate with. However, more delays and rushed reviews should be expected. We also realized in our communication with previous reviewers, that assigning too many reviews will decrease the chance of them reviewing in the next few years. 
 
-
-
 ## Acceptances and Rejections
-
-### Acceptances
-
-### Conditional Acceptance
-
 
 ### Selection of papers
 
@@ -306,29 +304,11 @@ The acceptance of papers should be based on the quality of the papers. We do not
 
 While there is usually a good correlation between the review scores and quality, there may be cases, particularly with disagreements between reviewers, where also papers with borderline or even negative scores may be accepted. These, and other borderline cases, are usually discussed between meta-reviewers and chair(s).
 
-### Confirmation letter to send
-
-After paper reviewing there are different kinds of letter to send:
-
-<!-- this needs to be substantially updated @doga and @florent. -->
-* submitted and accepted as paper
-* submitted as paper but downgraded to poster
-* submitted as poster and accepted as such
-* submitted as concert but performed as club
-* submitted as concert but downgraded to demo
-
-
-
 ### Prepare proceedings
 
 It is very important to thoroughly check that all camera-ready papers fulfil the requirements of the template.
 
 At NIME2025, the conference proceedings were handled by the conference proceeding chair.
-
-<!-- is this needed? -->
-<!-- #### Test print the proceedings
-
-We are not printing the NIME proceedings for the conferences any longer. Please remember that many people still print individual papers, so it is advisable to test print all papers to check if any errors occur. -->
 
 
 ## Preparing for / During the Conference
@@ -438,4 +418,4 @@ The exported BibTeX file need some "massaging" to match the other BibTeX files i
 
 The NIME paper proceedings officer will help with the above, and will also do the final upload to nime.org.
 
-*Ideally, conference proceedings should be ready on the conference website's before the conference.*
+**Ideally, conference proceedings should be ready on the conference website's before the conference.**
